@@ -2,8 +2,8 @@
 title: Dong Liang's CV
 description: ddbullfrog's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://github.com/JWebDev/JWebDev.github.io
-url: https://github.com/JWebDev/JWebDev.github.io
+baseurl: https://github.com/JWebDev/cv
+url: https://github.com/JWebDev/cv
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -23,7 +23,7 @@ author:
   github: ddbullfrog
   linkedin: ddbullfrog
   twitter: ddbullfrog
-  gavatar: /JWebDev.github.io/assets/img/avatar.JPG
+  gavatar: cv/assets/img/avatar.JPG
   stackoverflow:
   #  stackoverflow: 4582127
   workHistory:
