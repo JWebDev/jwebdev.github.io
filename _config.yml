@@ -1,7 +1,7 @@
 # Site settings
 title: JWebDev CV
 description: JWebDev CV
-favicon: /assets/img/avatar.png
+favicon: /assets/img/avatar.JPG
 baseurl: https://github.com/JWebDev/JWebDev.github.io
 url: https://ddbullfrog.github.io/resumecard
 rss_url: /pages/atom.xml
@@ -22,7 +22,7 @@ author:
   github: JWebDev
   linkedin: JWebDev
   twitter: JWebDev
-  gavatar: /resumecard/assets/img/avatar.png
+  gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
     stackoverflow: 4582127
   workHistory:
