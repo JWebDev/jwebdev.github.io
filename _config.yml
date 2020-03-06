@@ -2,8 +2,8 @@
 title: JWebDev CV
 description: JWebDev CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://JWebDev.github.io/cv
-url: https://JWebDev.github.io/cv
+baseurl: https://JWebDev.github.io
+url: https://JWebDev.github.io
 rss_url: /pages/atom.xml
 
 # Build settings
@@ -22,7 +22,7 @@ author:
   github: JWebDev
   linkedin: JWebDev
   twitter: JWebDev
-  gavatar: /cv/assets/img/avatar.JPG
+  gavatar: /JWebDev.github.io/assets/img/avatar.JPG
   stackoverflow:
 #    stackoverflow: 1590594
   workHistory:
