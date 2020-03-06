@@ -512,3 +512,13 @@ hr {
 .ribbon.white a{
   border: 2px dotted rgba(100,100,100,0.2);
 }
+
+.fa-location-arrow {
+    -webkit-text-stroke: 2px white; /* background color */
+    color: white;
+}
+
+.fa-free-code-camp {
+    -webkit-text-stroke: 2px white; /* background color */
+    color: #249EBD;
+}
