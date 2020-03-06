@@ -515,9 +515,9 @@ hr {
 }
 
 .fa-location-arrow {
-    -webkit-text-stroke: 2px #249EBD; /* background color */
+    -webkit-text-stroke: 1px #249EBD; /* background color */
 }
 
-.fa-free-code-camp {
-    -webkit-text-stroke: 2px #249EBD; /* background color */
-}
+/*.fa-free-code-camp {*/
+/*    -webkit-text-stroke: 2px #249EBD; !* background color *!*/
+/*}*/
