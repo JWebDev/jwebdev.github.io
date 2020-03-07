@@ -1,24 +1,18 @@
 # Site settings
-title: JWebDev CV
-description: JWebDev CV
+title: Oleg Fedak CV
+description: Oleg Fedak CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://JWebDev.github.io
 url: https://JWebDev.github.io
 rss_url: /pages/atom.xml
 
-# Build settings
-markdown: kramdown
-
-exclude: [vendor]
-
 # Author settings
 author:
-  name: JWebDev1
-  title: Java Developer
+  name: Oleg Fedak
+  title: Senior Java Developer / DevOps Engineer
   address: Berlin, Germany
   email: TODO#gmail.com
   link: #
-  myproject:
   github: JWebDev
   linkedin: oleg-fedak-b9a03196
   xing: Oleg_Fedak2
