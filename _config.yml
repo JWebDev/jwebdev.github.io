@@ -301,5 +301,5 @@ author:
     #    - skill10:
     #      name: Go
     #      percentage: 80%
-    - languages: [Java, Python, Go, Bash, SQL, JavaScript, Groovy]
-    - frameworks: [Spring, Spring Boot, Apache Spark, Angular, Android SDK]
+  languagesskills: [Java, Python, Go, Bash, SQL, JavaScript, Groovy]
+  frameworksskills: [Spring, Spring Boot, Apache Spark, Angular, Android SDK]
