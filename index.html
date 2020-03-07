@@ -39,7 +39,7 @@ layout: default
                             {% if work.descriptions %}
                             <ul>
                                 {% for description in work.descriptions %}
-                                <li>{{ description description.index }}</li>
+                                <li>{{ description+description.index }}</li>
                                 {% endfor %}
                             </ul>
                             {% endif %}
