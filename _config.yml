@@ -27,6 +27,7 @@ author:
       started: 2020
       duration: (2020 - Present)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      technologies: Docker, Nexus, Jenkins, Jenkins Pipelines, Java 11, MySQL, Spring Boot. Spring Boot Admin, Maven, Ansible, Groovy, Python, SonarQube
     - work2:
       company: KV Telematik GmbH
       location: Berlin, Germany
@@ -34,6 +35,7 @@ author:
       started: 2017
       duration: (2017 - 2020)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      technologies: Java 8/11, MySQL, Spring Boot. Spring Security, Hibernate, Maven, Jersey, Nexus, Jenkins, Docker, OpenAPI, Liquibase, SonarQube
     - work3:
       company: <s>primervoto GmbH</s> &#8594 Solactive AG
       location: Berlin, Germany
@@ -41,6 +43,7 @@ author:
       started: 2017
       duration: (2017 - 2017)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      technologies: Java 8, MySQL, Spring Boot. Hibernate, Maven, sbt, Play Framework, RESTEasy
     - work4:
       company: Klopotek AG
       location: Berlin, Germany
@@ -48,6 +51,7 @@ author:
       started: 2014
       duration: (2014 - 2017)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      technologies: Java 7/8, Oracle, Spring. Hibernate, Maven, AWS, Ansible, GitLab, JFrog, Jenkins, Wildfly, AngularJS
     - work5:
       company: <s>xx-well gmbh</s> &#8594 <s>Welldoo GmbH</s> &#8594 Vilua Healthcare GmbH
       location: Berlin, Germany
@@ -55,6 +59,7 @@ author:
       started: 2012
       duration: (2012 - 2014)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      technologies: Java 6/7, Oracle 11g, Apache Tomcat, Spring MVC/Data/Web Flow. Hibernate, Maven, Flyway, Swagger, Mockito, Jersey
     - work6:
       company: <s>Steria Mummert Consulting GmbH</s> &#8594 Sopra Steria SE
       location: Berlin, Germany
@@ -62,6 +67,7 @@ author:
       started: 2011
       duration: (2011 - 2012)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      technologies: Java, JavaEE, JavaScript, ExtJS, jQuery, JFreeChart
     - work7:
       company: Computer Center "Cluster"
       location: Ternopil, Ukraine
@@ -69,6 +75,7 @@ author:
       started: 2007
       duration: (2007 - 2008)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      technologies:
     - work8:
       company: Konica Minolta
       location: Ternopil, Ukraine
@@ -76,6 +83,7 @@ author:
       started: 2006
       duration: (2006 - 2007)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      technologies: Adobe Photoshop, Adobe Illustrator, CorelDraw, Adobe Premiere, Adobe After Effects, Flash, ActionScript, C++ Builder
     - work9:
       company: Computer Center "Terminal"
       location: Ternopil, Ukraine
@@ -83,6 +91,7 @@ author:
       started: 2006
       duration: (2006 - 2006)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      technologies:
     - work10:
       company: Internet cafe "Krapka"
       location: Ternopil, Ukraine
@@ -90,6 +99,7 @@ author:
       started: 2005
       duration: (2005 - 2006)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      technologies:
   educationHistory:
     - education1:
       organization: Hochschule für Technik und Wirtschaft Berlin (University of Applied Sciences)
@@ -130,7 +140,7 @@ author:
       major: Computer science, operation of data processing and decision systems
       started: 2001
       duration: (2001 - 2005)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: 
   languages:
     - language1:
       name: English
