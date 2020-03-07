@@ -4,12 +4,6 @@ layout: default
 
 <script type="text/javascript">
 
-    function getCodewarsLink() {
-        return isMobile()
-            ? "https://www.codewars.com/users/_JDev_/badges/small"
-            : "https://www.codewars.com/users/_JDev_/badges/large";
-    }
-
     function isMobile() {
         var check = false;
         (function (a) {
@@ -283,8 +277,17 @@ layout: default
             </div>
             <div class="deviter"></div>
             <h3 class="title with-icon"><span class="fab fa-free-code-camp cat-title"></span> Codewars</h3>
-            <div class="grid-block">
-                <a href="https://www.codewars.com/users/_JDev_"><img src="javascript:getCodewarsLink();"></a>
+            <div id="codewars" class="grid-block">
+                <script>
+                    if (isMobile()) {
+                        document.getElementById("codewars").innerHTML +=
+                            "<a href=\"https://www.codewars.com/users/_JDev_\"><img src=\"https://www.codewars.com/users/_JDev_/badges/small\"></a>";
+                    } else {
+                        document.getElementById("codewars").innerHTML +=
+                            "<a href=\"https://www.codewars.com/users/_JDev_\"><img src=\"https://www.codewars.com/users/_JDev_/badges/large\"></a>";
+                    }
+                </script>
+
             </div>
         </div>
     </div>
