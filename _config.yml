@@ -144,19 +144,65 @@ author:
     - language4:
       name: Russian
       proficiency: Native
-  programmingSkills:
+  skills:
     - skill1:
-      name: HTML
+      name: Java
       percentage: 100%
     - skill2:
-      name: Bootstrap
+      name: Spring / Spring Boot
       percentage: 90%
     - skill3:
-      name: JavaScript
-      percentage: 70%
-    - skill4:
-      name: AngularJS
-      percentage: 70%
-    - skill5:
-      name: Java/Java EE
+      name: Docker
       percentage: 90%
+    - skill4:
+      name: Jenkins
+      percentage: 80%
+    - skill5:
+      name: Kubernetes
+      percentage: 60%
+    - skill6:
+      name: Terraform
+      percentage: 60%
+    - skill7:
+      name: Nexus
+      percentage: 80%
+    - skill8:
+      name: Databases
+      percentage: 75%
+    - skill9:
+      name: Python
+      percentage: 65%
+    - skill10:
+      name: Go
+      percentage: 60%
+  interestedon:
+    - skill1:
+      name: Data Engineering
+      percentage: 100%
+    - skill2:
+      name: DevOps
+      percentage: 100%
+    - skill3:
+      name: Clouds
+      percentage: 100%
+    - skill4:
+      name: BigData
+      percentage: 100%
+    - skill5:
+      name: Kubernetes
+      percentage: 90%
+    - skill6:
+      name: Terraform
+      percentage: 80%
+    - skill7:
+      name: Java
+      percentage: 70%
+    - skill8:
+      name: Databases
+      percentage: 75%
+    - skill9:
+      name: Python
+      percentage: 80%
+    - skill10:
+      name: Go
+      percentage: 80%

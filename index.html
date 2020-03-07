@@ -229,19 +229,39 @@ layout: default
                 </script>
             </div>
             {% endif %}
-            {% if site.author.programmingSkills %}
+
+            {% if site.author.skills %}
             <div class="grid-block">
                 <ul class="list-unstyled list-skills">
-                    {% for programmingSkill in site.author.programmingSkills %}
+                    {% for skill in site.author.skills %}
                     <li>
-                        {% if programmingSkill.name %}
-                        <span class="caption-skill">{{ programmingSkill.name }}</span>
+                        {% if skill.name %}
+                        <span class="caption-skill">{{ skill.name }}</span>
                         {% endif %}
-                        {% if programmingSkill.percentage %}
+                        {% if skill.percentage %}
                         <div class="progress">
-                            <div class="progress-bar" style="width: {{ programmingSkill.percentage }}">
-                                <span>{{ programmingSkill.percentage }} </span>
+                            <div class="progress-bar" style="width: {{ skill.percentage }}">
+                                <span>{{ skill.percentage }} </span>
                             </div>
+                        </div>
+                        {% endif %}
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+
+            {% if site.author.interestedon %}
+            <div class="grid-block">
+                <ul class="list-unstyled list-skills">
+                    {% for skill in site.author.interestedon %}
+                    <li>
+                        {% if skill.name %}
+                        <span class="caption-skill">{{ skill.name }}</span>
+                        {% endif %}
+                        {% if skill.percentage %}
+                        <div class="progress">
+                            <div class="progress-bar" style="width: {{ skill.percentage }}"></div>
                         </div>
                         {% endif %}
                     </li>
