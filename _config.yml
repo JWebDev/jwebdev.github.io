@@ -26,7 +26,7 @@ author:
       title: DevOps Engineer
       started: 2020
       duration: (2020 - Present)
-      description: <li>I am not a description1. I am not description.I am not description.</li>
+        - description: <li>I am not a description1. I am not description.I am not description.</li>
       <li>I am not a description2. I am not description.I am not description.</li>
       <li>I am not a description3. I am not description.I am not description.</li>
       <li>I am not a description4. I am not description.I am not description.</li>
