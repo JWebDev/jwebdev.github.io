@@ -347,7 +347,8 @@ hr {
     background: #4B6F78;
 }
 
-.list-strip li:nth-child(even) {
+/*Make each second element in list red*/
+.list-strip li:nth-child(-n+2) {
     background: #BA4E4E;
 }
 
