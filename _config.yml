@@ -152,7 +152,8 @@ author:
   projects:
     - project1:
       name: concurrent-analytics.com
-      started: 2017-Present
+      started: 2017
+      duration: 2017-Present
       description: [<li>I am not a description1. I am not description.I am not description.</li>
                       <li>I am not a description2. I am not description.I am not description.</li>
                       <li>I am not a description3. I am not description.I am not description.</li>
@@ -162,7 +163,8 @@ author:
       technologies: Kubernetes, Docker, Terraform, Apache Spark. HDFS, Helm. Elasticsearch, Kibana, Fluent Bit, Ansible, Prometheus, Grafana, MySQL, MongoDB, Angular, TeamCity, Kotlin, Nexus, Shell
     - project2:
       name: Words Tutor
-      started: 2016-2017
+      started: 2016
+      duration: 2016-2017
       description: [<li>I am not a description1. I am not description.I am not description.</li>
                       <li>I am not a description2. I am not description.I am not description.</li>
                       <li>I am not a description3. I am not description.I am not description.</li>
@@ -172,7 +174,8 @@ author:
       technologies:  Java, Android
     - project3:
       name: Other
-      started: 2012-2014
+      started: 2012
+      duration: 2012-2014
       description: [<li>I am not a description1. I am not description.I am not description.</li>
                       <li>I am not a description2. I am not description.I am not description.</li>
                       <li>I am not a description3. I am not description.I am not description.</li>
