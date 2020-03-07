@@ -26,11 +26,12 @@ author:
       title: DevOps Engineer
       started: 2020
       duration: (2020 - Present)
-        - description: <li>I am not a description1. I am not description.I am not description.</li>
-      <li>I am not a description2. I am not description.I am not description.</li>
-      <li>I am not a description3. I am not description.I am not description.</li>
-      <li>I am not a description4. I am not description.I am not description.</li>
-      <li>I am not a description5. I am not description.I am not description.</li>
+      description: [<li>I am not a description1. I am not description.I am not description.</li>
+                      <li>I am not a description2. I am not description.I am not description.</li>
+                      <li>I am not a description3. I am not description.I am not description.</li>
+                      <li>I am not a description4. I am not description.I am not description.</li>
+                      <li>I am not a description5. I am not description.I am not description.</li>
+      ]
       technologies: Docker, Jenkins, Jenkins Pipelines, Nexus, Java 11, MySQL, Spring Boot. Spring Boot Admin, Maven, Ansible, Groovy, Python, SonarQube
     - work2:
       company: KV Telematik GmbH
