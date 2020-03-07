@@ -286,21 +286,20 @@ author:
     - skill5:
       name: Kubernetes
       percentage: 100%
-  #    - skill6:
-  #      name: Terraform
-  #      percentage: 80%
-  #    - skill7:
-  #      name: Java
-  #      percentage: 70%
-  #    - skill8:
-  #      name: Databases
-  #      percentage: 75%
-  #    - skill9:
-  #      name: Python
-  #      percentage: 80%
-  #    - skill10:
-  #      name: Go
-  #      percentage: 80%
-  allskills:
+    #    - skill6:
+    #      name: Terraform
+    #      percentage: 80%
+    #    - skill7:
+    #      name: Java
+    #      percentage: 70%
+    #    - skill8:
+    #      name: Databases
+    #      percentage: 75%
+    #    - skill9:
+    #      name: Python
+    #      percentage: 80%
+    #    - skill10:
+    #      name: Go
+    #      percentage: 80%
     - languages: [Java, Python, Go, Bash, SQL, JavaScript, Groovy]
     - frameworks: [Spring, Spring Boot, Apache Spark, Angular, Android SDK]
