@@ -46,7 +46,7 @@ author:
       ]
       technologies: Java 8/11, MySQL, Spring Boot. Spring Security, Hibernate, Maven, Jersey, Nexus, Jenkins, Docker, OpenAPI, Liquibase, SonarQube
     - work3:
-      company: <s>primervoto GmbH</s> &#8594 Solactive AG
+      company: <s>Primervoto GmbH</s> &#8594 Solactive AG
       location: Berlin, Germany
       title: Senior Java Developer
       started: 2017
@@ -72,7 +72,7 @@ author:
       ]
       technologies: Java 7/8, Oracle, Spring. Hibernate, Maven, AWS, Ansible, GitLab, JFrog, Jenkins, Wildfly, AngularJS
     - work5:
-      company: <s>xx-well gmbh</s> &#8594 <s>Welldoo GmbH</s> &#8594 Vilua Healthcare GmbH
+      company: <s>xx-well GmbH</s> &#8594 <s>Welldoo GmbH</s> &#8594 Vilua Healthcare GmbH
       location: Berlin, Germany
       title: Working student (Java Backend Developer / Frontend Developer)
       started: 2012
@@ -286,18 +286,21 @@ author:
     - skill5:
       name: Kubernetes
       percentage: 100%
-#    - skill6:
-#      name: Terraform
-#      percentage: 80%
-#    - skill7:
-#      name: Java
-#      percentage: 70%
-#    - skill8:
-#      name: Databases
-#      percentage: 75%
-#    - skill9:
-#      name: Python
-#      percentage: 80%
-#    - skill10:
-#      name: Go
-#      percentage: 80%
+  #    - skill6:
+  #      name: Terraform
+  #      percentage: 80%
+  #    - skill7:
+  #      name: Java
+  #      percentage: 70%
+  #    - skill8:
+  #      name: Databases
+  #      percentage: 75%
+  #    - skill9:
+  #      name: Python
+  #      percentage: 80%
+  #    - skill10:
+  #      name: Go
+  #      percentage: 80%
+  allskills:
+    - languages: [Java, Python, Go, Bash, SQL, JavaScript, Groovy]
+    - frameworks: [Spring, Spring Boot, Apache Spark, Angular, Android SDK]
