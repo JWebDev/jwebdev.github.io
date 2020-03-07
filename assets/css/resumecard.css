@@ -348,7 +348,7 @@ hr {
 }
 
 /*Make each second element in list red*/
-.list-strip li:nth-child(-n+2) {
+.list-strip li:nth-last-child(-n+2) {
     background: #BA4E4E;
 }
 
