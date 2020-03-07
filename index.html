@@ -178,11 +178,14 @@ layout: default
 
             <div class="deviter"></div>
             <h3 class="title with-icon"><span class="fas fa-atom cat-title"></span> Skills</h3>
+
+            <p>Title
             <div class="grid-block" title="This is my caption">
                 {% for skill in site.author.languagesskills %}
                 <span class="caption-skill">{{ skill }}</span>
                 {% endfor %}
             </div>
+            </p>
             <div class="grid-block" title="This is my caption">
                 {% for skill in site.author.frameworksskills %}
                 <span class="caption-skill">{{ skill }}</span>
