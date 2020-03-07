@@ -36,12 +36,9 @@ layout: default
                             </p>
                         </div>
                         <div class="timeline-body">
-                            {% if work.descriptionscount %}
+                            {% if work.description %}
                             <ul>
-                                {% for index in work.descriptionscount %}
-                                {% assign d = "description" | append: index %}
-                                <li>{{ work.d }}</li>
-                                {% endfor %}
+                                <li>{{ work.description }}</li>
                             </ul>
                             {% endif %}
                         </div>
