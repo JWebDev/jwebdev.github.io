@@ -36,8 +36,12 @@ layout: default
                             </p>
                         </div>
                         <div class="timeline-body">
-                            {% if work.description %}
-                            <p>{{ work.description }}</p>
+                            {% if work.descriptions %}
+                            <ul>
+                                {% for description in work.descriptions %}
+                                <li>{{ description }}</li>
+                                {% endfor %}
+                            </ul>
                             {% endif %}
                         </div>
                         <div class="text-muted">
@@ -51,6 +55,30 @@ layout: default
                 {% endfor %}
             </ul>
             {% endif %}
+
+            {% if site.author.projects %}
+            <h3 class="title with-icon"><span class="fas fa-rocket cat-title"></span> Projects</h3>
+            <ul class="timeline">
+                {% for project in site.author.projects %}
+                <li class="timeline-inverted">
+                    <div class="timeline-panel grid-block">
+                        <div class="timeline-body">
+                            {% if project.description %}
+                            <p>{{ project.description }}</p>
+                            {% endif %}
+                        </div>
+                        <div class="text-muted">
+                            {% if project.technologies %}
+                            <br>
+                            <p>Technologies: {{ project.technologies }}</p>
+                            {% endif %}
+                        </div>
+                    </div>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+
             {% if site.author.educationHistory %}
             <h3 class="title with-icon"><span class="fa fa-book cat-title"></span>Education History</h3>
             <ul class="timeline">
@@ -85,11 +113,6 @@ layout: default
                                 </small>
                             </p>
                         </div>
-                        <!--                        <div class="timeline-body">-->
-                        <!--                            {% if education.description %}-->
-                        <!--                            <p>{{ education.description }}</p>-->
-                        <!--                            {% endif %}-->
-                        <!--                        </div>-->
                     </div>
                 </li>
                 {% endfor %}
@@ -97,30 +120,6 @@ layout: default
             {% endif %}
         </div>
         <div class="col-md-4">
-            <!--            {% if site.author.stackoverflow or site.author.programmingSkills %}-->
-            <!--            <h3 class="title with-icon"><span class="fa fa-code cat-title"></span> Programming Skills</h3>-->
-
-            <!--            {% if site.author.skills %}-->
-            <!--            <div class="grid-block">-->
-            <!--                <ul class="list-unstyled list-skills">-->
-            <!--                    {% for skill in site.author.skills %}-->
-            <!--                    <li>-->
-            <!--                        {% if skill.name %}-->
-            <!--                        <span class="caption-skill">{{ skill.name }}</span>-->
-            <!--                        {% endif %}-->
-            <!--                        {% if skill.percentage %}-->
-            <!--                        <div class="progress">-->
-            <!--                            <div class="progress-bar" style="width: {{ skill.percentage }}">-->
-            <!--                                <span>{{ skill.percentage }} </span>-->
-            <!--                            </div>-->
-            <!--                        </div>-->
-            <!--                        {% endif %}-->
-            <!--                    </li>-->
-            <!--                    {% endfor %}-->
-            <!--                </ul>-->
-            <!--            </div>-->
-            <!--            {% endif %}-->
-            <!--            {% endif %}-->
 
             {% if site.author.skills %}
             <div class="deviter"></div>

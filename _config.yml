@@ -26,7 +26,12 @@ author:
       title: DevOps Engineer
       started: 2020
       duration: (2020 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      descriptions:
+        description1: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description.
+        description2: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description.
+        description3: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description.
+        description4: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description.
+        description5: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description.
       technologies: Docker, Nexus, Jenkins, Jenkins Pipelines, Java 11, MySQL, Spring Boot. Spring Boot Admin, Maven, Ansible, Groovy, Python, SonarQube
     - work2:
       company: KV Telematik GmbH
@@ -100,6 +105,19 @@ author:
       duration: (2005 - 2006)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
       technologies:
+  projects:
+    - project1:
+      name: concurrent-analytics.com
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      technologies: Kubernetes, Docker, Terraform, Apache Spark. HDFS, Helm. Elasticsearch, Kibana, Fluent Bit, Ansible, Prometheus, Grafana, MySQL, MongoDB, Angular, TeamCity, Kotlin, Nexus, Shell
+    - project2:
+      name: Words Tutor
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      technologies:  Java, Android
+    - project3:
+      name: Other
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      technologies:  Java, Java Swing, Objective C, Cocoa, Android
   educationHistory:
     - education1:
       organization: Hochschule für Technik und Wirtschaft Berlin (University of Applied Sciences)
@@ -140,7 +158,7 @@ author:
       major: Computer science, operation of data processing and decision systems
       started: 2001
       duration: (2001 - 2005)
-      description: 
+      description:
   languages:
     - language1:
       name: English
