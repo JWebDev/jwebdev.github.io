@@ -270,6 +270,47 @@ author:
     - skill10:
       name: Go
       percentage: 60%
+  expiriences:
+    - skill1:
+      name: Java
+      label: 10 years
+      percentage: 100%
+    - skill2:
+      name: Spring / Spring Boot
+      label: 8 years
+      percentage: 80%
+    - skill3:
+      name: Linux
+      label: 8 years
+      percentage: 80%
+    - skill4:
+      name: Databases
+      label: 8 years
+      percentage: 80%
+    - skill5:
+      name: Jenkins
+      label: 6 years
+      percentage: 60%
+    - skill6:
+      name: Docker
+      label: 5 years
+      percentage: 50%
+    - skill7:
+      name: CI/CD
+      label: 5 years
+      percentage: 50%
+    - skill8:
+      name: Kubernetes
+      label: 4 years
+      percentage: 40%
+    - skill9:
+      name: DevOps
+      label: 4 years
+      percentage: 40%
+    - skill10:
+      name: Terraform
+      label: 1 year
+      percentage: 10%
   interestedon:
     - skill1:
       name: Data Engineering
