@@ -39,8 +39,8 @@ layout: default
                             {% if work.descriptionscount %}
                             <ul>
                                 {% for index in work.descriptionscount %}
-                                {% assign description = work.description | append: index %}
-                                <li>{{ description }}</li>
+                                {% assign description = "description" | append: index %}
+                                <li>{{ work.description }}</li>
                                 {% endfor %}
                             </ul>
                             {% endif %}
