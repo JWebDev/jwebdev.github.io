@@ -39,7 +39,12 @@ author:
       title: Senior Java Developer / DevOps Engineer
       started: 2017
       duration: (2017 - 2020)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: [<li>I am not a description1. I am not description.I am not description.</li>
+                      <li>I am not a description2. I am not description.I am not description.</li>
+                      <li>I am not a description3. I am not description.I am not description.</li>
+                      <li>I am not a description4. I am not description.I am not description.</li>
+                      <li>I am not a description5. I am not description.I am not description.</li>
+      ]
       technologies: Java 8/11, MySQL, Spring Boot. Spring Security, Hibernate, Maven, Jersey, Nexus, Jenkins, Docker, OpenAPI, Liquibase, SonarQube
     - work3:
       company: <s>primervoto GmbH</s> &#8594 Solactive AG
@@ -47,7 +52,12 @@ author:
       title: Senior Java Developer
       started: 2017
       duration: (2017 - 2017)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: [<li>I am not a description1. I am not description.I am not description.</li>
+                      <li>I am not a description2. I am not description.I am not description.</li>
+                      <li>I am not a description3. I am not description.I am not description.</li>
+                      <li>I am not a description4. I am not description.I am not description.</li>
+                      <li>I am not a description5. I am not description.I am not description.</li>
+      ]
       technologies: Java 8, MySQL, Spring Boot. Hibernate, Maven, sbt, Play Framework, RESTEasy
     - work4:
       company: Klopotek AG
@@ -55,7 +65,12 @@ author:
       title: Java Backend Developer / Frontend Developer
       started: 2014
       duration: (2014 - 2017)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: [<li>I am not a description1. I am not description.I am not description.</li>
+                      <li>I am not a description2. I am not description.I am not description.</li>
+                      <li>I am not a description3. I am not description.I am not description.</li>
+                      <li>I am not a description4. I am not description.I am not description.</li>
+                      <li>I am not a description5. I am not description.I am not description.</li>
+      ]
       technologies: Java 7/8, Oracle, Spring. Hibernate, Maven, AWS, Ansible, GitLab, JFrog, Jenkins, Wildfly, AngularJS
     - work5:
       company: <s>xx-well gmbh</s> &#8594 <s>Welldoo GmbH</s> &#8594 Vilua Healthcare GmbH
@@ -63,7 +78,12 @@ author:
       title: Working student (Java Backend Developer / Frontend Developer)
       started: 2012
       duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: [<li>I am not a description1. I am not description.I am not description.</li>
+                      <li>I am not a description2. I am not description.I am not description.</li>
+                      <li>I am not a description3. I am not description.I am not description.</li>
+                      <li>I am not a description4. I am not description.I am not description.</li>
+                      <li>I am not a description5. I am not description.I am not description.</li>
+      ]
       technologies: Java 6/7, Oracle 11g, Apache Tomcat, Spring MVC/Data/Web Flow. Hibernate, Maven, Flyway, Swagger, Mockito, Jersey
     - work6:
       company: <s>Steria Mummert Consulting GmbH</s> &#8594 Sopra Steria SE
@@ -71,7 +91,12 @@ author:
       title: Working student (Java Backend Developer / Frontend Developer)
       started: 2011
       duration: (2011 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: [<li>I am not a description1. I am not description.I am not description.</li>
+                      <li>I am not a description2. I am not description.I am not description.</li>
+                      <li>I am not a description3. I am not description.I am not description.</li>
+                      <li>I am not a description4. I am not description.I am not description.</li>
+                      <li>I am not a description5. I am not description.I am not description.</li>
+      ]
       technologies: Java, JavaEE, JavaScript, ExtJS, jQuery, JFreeChart
     - work7:
       company: Computer Center "Cluster"
@@ -79,7 +104,12 @@ author:
       title: Repair of computers
       started: 2007
       duration: (2007 - 2008)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: [<li>I am not a description1. I am not description.I am not description.</li>
+                      <li>I am not a description2. I am not description.I am not description.</li>
+                      <li>I am not a description3. I am not description.I am not description.</li>
+                      <li>I am not a description4. I am not description.I am not description.</li>
+                      <li>I am not a description5. I am not description.I am not description.</li>
+      ]
       technologies:
     - work8:
       company: Konica Minolta
@@ -87,7 +117,12 @@ author:
       title: Designer and video editing
       started: 2006
       duration: (2006 - 2007)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: [<li>I am not a description1. I am not description.I am not description.</li>
+                      <li>I am not a description2. I am not description.I am not description.</li>
+                      <li>I am not a description3. I am not description.I am not description.</li>
+                      <li>I am not a description4. I am not description.I am not description.</li>
+                      <li>I am not a description5. I am not description.I am not description.</li>
+      ]
       technologies: Adobe Photoshop, Adobe Illustrator, CorelDraw, Adobe Premiere, Adobe After Effects, Flash, ActionScript, C++ Builder
     - work9:
       company: Computer Center "Terminal"
@@ -95,7 +130,12 @@ author:
       title: Computer network administrator
       started: 2006
       duration: (2006 - 2006)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: [<li>I am not a description1. I am not description.I am not description.</li>
+                      <li>I am not a description2. I am not description.I am not description.</li>
+                      <li>I am not a description3. I am not description.I am not description.</li>
+                      <li>I am not a description4. I am not description.I am not description.</li>
+                      <li>I am not a description5. I am not description.I am not description.</li>
+      ]
       technologies:
     - work10:
       company: Internet cafe "Krapka"
@@ -103,23 +143,43 @@ author:
       title: Internet cafe administrator
       started: 2005
       duration: (2005 - 2006)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: [<li>I am not a description1. I am not description.I am not description.</li>
+                      <li>I am not a description2. I am not description.I am not description.</li>
+                      <li>I am not a description3. I am not description.I am not description.</li>
+                      <li>I am not a description4. I am not description.I am not description.</li>
+                      <li>I am not a description5. I am not description.I am not description.</li>
+      ]
       technologies:
   projects:
     - project1:
       name: concurrent-analytics.com
       started: 2017-Present
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: [<li>I am not a description1. I am not description.I am not description.</li>
+                      <li>I am not a description2. I am not description.I am not description.</li>
+                      <li>I am not a description3. I am not description.I am not description.</li>
+                      <li>I am not a description4. I am not description.I am not description.</li>
+                      <li>I am not a description5. I am not description.I am not description.</li>
+      ]
       technologies: Kubernetes, Docker, Terraform, Apache Spark. HDFS, Helm. Elasticsearch, Kibana, Fluent Bit, Ansible, Prometheus, Grafana, MySQL, MongoDB, Angular, TeamCity, Kotlin, Nexus, Shell
     - project2:
       name: Words Tutor
       started: 2016-2017
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: [<li>I am not a description1. I am not description.I am not description.</li>
+                      <li>I am not a description2. I am not description.I am not description.</li>
+                      <li>I am not a description3. I am not description.I am not description.</li>
+                      <li>I am not a description4. I am not description.I am not description.</li>
+                      <li>I am not a description5. I am not description.I am not description.</li>
+      ]
       technologies:  Java, Android
     - project3:
       name: Other
       started: 2012-2014
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: [<li>I am not a description1. I am not description.I am not description.</li>
+                      <li>I am not a description2. I am not description.I am not description.</li>
+                      <li>I am not a description3. I am not description.I am not description.</li>
+                      <li>I am not a description4. I am not description.I am not description.</li>
+                      <li>I am not a description5. I am not description.I am not description.</li>
+      ]
       technologies:  Java, Java Swing, Objective C, Cocoa, Android
   educationHistory:
     - education1:
