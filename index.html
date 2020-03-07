@@ -179,18 +179,69 @@ layout: default
             <div class="deviter"></div>
             <h3 class="title with-icon"><span class="fas fa-atom cat-title"></span> Skills</h3>
 
-            <p>Title
+            <p>Environment:
             <div class="grid-block" title="This is my caption">
-                {% for skill in site.author.languagesskills %}
+                {% for skill in site.author.environment_skills %}
                 <span class="caption-skill">{{ skill }}</span>
                 {% endfor %}
             </div>
             </p>
+
+            <p>Languages:
             <div class="grid-block" title="This is my caption">
-                {% for skill in site.author.frameworksskills %}
+                {% for skill in site.author.languages_skills %}
                 <span class="caption-skill">{{ skill }}</span>
                 {% endfor %}
             </div>
+            </p>
+
+            <p>Frameworks:
+            <div class="grid-block" title="This is my caption">
+                {% for skill in site.author.frameworks_skills %}
+                <span class="caption-skill">{{ skill }}</span>
+                {% endfor %}
+            </div>
+            </p>
+
+            <p>Paradigms:
+            <div class="grid-block" title="This is my caption">
+                {% for skill in site.author.paradigms_skills %}
+                <span class="caption-skill">{{ skill }}</span>
+                {% endfor %}
+            </div>
+            </p>
+
+            <p>Storage:
+            <div class="grid-block" title="This is my caption">
+                {% for skill in site.author.storage_skills %}
+                <span class="caption-skill">{{ skill }}</span>
+                {% endfor %}
+            </div>
+            </p>
+
+            <p>Tools:
+            <div class="grid-block" title="This is my caption">
+                {% for skill in site.author.tools_skills %}
+                <span class="caption-skill">{{ skill }}</span>
+                {% endfor %}
+            </div>
+            </p>
+
+            <p>Platforms:
+            <div class="grid-block" title="This is my caption">
+                {% for skill in site.author.platforms_skills %}
+                <span class="caption-skill">{{ skill }}</span>
+                {% endfor %}
+            </div>
+            </p>
+
+            <p>Libraries:
+            <div class="grid-block" title="This is my caption">
+                {% for skill in site.author.libraries_skills %}
+                <span class="caption-skill">{{ skill }}</span>
+                {% endfor %}
+            </div>
+            </p>
 
             {% if site.author.languages %}
             <div class="deviter"></div>

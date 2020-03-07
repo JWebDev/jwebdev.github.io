@@ -301,5 +301,11 @@ author:
     #    - skill10:
     #      name: Go
     #      percentage: 80%
-  languagesskills: [Java, Python, Go, Bash, SQL, JavaScript, Groovy]
-  frameworksskills: [Spring, Spring Boot, Apache Spark, Angular, Android SDK]
+  environment_skills: [Linux/MacOS, IntelliJ IDEA, Docker, Shell, Git]
+  languages_skills: [Java, Python, Go, Bash, SQL, JavaScript, Groovy]
+  frameworks_skills: [Spring, Spring Boot, Apache Spark, Angular, Android SDK]
+  paradigms_skills: [DevOps, Object-oriented Programming (OOP), CQRS, Agile Software Development(Scrum/Kanban), Dependency Injection, Microservices, Microservices Architecture, Continuous Integration (CI), Continuous Development (CD), Continuous Delivery (CD), REST, Unit/Integrations Testing, UML]
+  storage_skills: [MySQL, Oracle, MongoDB, SQLite]
+  tools_skills: [IntellJ IDEA, Gradle, Maven, sbt, Git, Jenkins, TeamCity, Nexus, SonarQube, Portainer, Visual Studio Code, Android Studio, Terraform, Kibana, Grafana]
+  platforms_skills: [Kubernetes, Docker, Android, AWS, Vagrant, Linux, MacOS, Windows]
+  libraries_skills: [Apache Lucene, Apache CXF, Jersey, RESTEasy, Flyway, Liquibase, Guava, JUnit, TestNG, Mockito, OpenAPI(Swagger), JAX-RS, Bean Validation, JPA]
