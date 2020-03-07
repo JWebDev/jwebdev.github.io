@@ -38,8 +38,8 @@ layout: default
                         <div class="timeline-body">
                             {% if work.descriptions %}
                             <ul>
-                                {% for description in work.descriptions %}
-                                <li>{{ description[description.index] }}</li>
+                                {% for index in work.descriptionscount %}
+                                <li>{{ work.description[index] }}</li>
                                 {% endfor %}
                             </ul>
                             {% endif %}
