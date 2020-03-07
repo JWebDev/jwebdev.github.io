@@ -42,6 +42,7 @@ layout: default
                         </div>
                         <div class="text-muted">
                             {% if work.technologies %}
+                            <br>
                             <p>Technologies: {{ work.technologies }}</p>
                             {% endif %}
                         </div>
@@ -84,11 +85,11 @@ layout: default
                                 </small>
                             </p>
                         </div>
-<!--                        <div class="timeline-body">-->
-<!--                            {% if education.description %}-->
-<!--                            <p>{{ education.description }}</p>-->
-<!--                            {% endif %}-->
-<!--                        </div>-->
+                        <!--                        <div class="timeline-body">-->
+                        <!--                            {% if education.description %}-->
+                        <!--                            <p>{{ education.description }}</p>-->
+                        <!--                            {% endif %}-->
+                        <!--                        </div>-->
                     </div>
                 </li>
                 {% endfor %}
@@ -195,10 +196,10 @@ layout: default
                     if (window.innerWidth > 700) {
                         document.getElementById("codewars").innerHTML +=
                             "<a href=\"https://www.codewars.com/users/_JDev_\"><img style=\"display: block; margin: auto\" src=\"https://www.codewars.com/users/_JDev_/badges/large\"></a>";
-                    } else if (500 < window.innerWidth < 700) {
+                    } else if (500 < window.innerWidth < 600) {
                         document.getElementById("codewars").innerHTML +=
                             "<a href=\"https://www.codewars.com/users/_JDev_\"><img style=\"display: block; margin: auto\" src=\"https://www.codewars.com/users/_JDev_/badges/small\"></a>";
-                    } else{
+                    } else {
                         document.getElementById("codewars").innerHTML +=
                             "<a href=\"https://www.codewars.com/users/_JDev_\"><img style=\"display: block; margin: auto\" src=\"https://www.codewars.com/users/_JDev_/badges/micro\"></a>";
                     }
