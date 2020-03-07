@@ -529,6 +529,7 @@ hr {
     border-radius: 10px;
     margin: 2px;
     overflow-wrap: break-word;
+    display: inline-block;
 }
 
 /*.fa-free-code-camp {*/
