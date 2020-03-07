@@ -178,16 +178,12 @@ layout: default
 
             {% if site.author.allskills %}
             <div class="deviter"></div>
-            <h3 class="title with-icon"><span class="fas fa-cogs cat-title"></span> Skills</h3>
+            <h3 class="title with-icon"><span class="fas fa-atom cat-title"></span> Skills</h3>
             <div class="grid-block">
-                {% for skill in site.author.languagesskills %}
-                <span class="caption-skill">{{ skill }}</span>
-                {% endfor %}
+                <span class="caption-skill">{{ site.author.languagesskills }}</span>
             </div>
             <div class="grid-block">
-                {% for skill in site.author.frameworksskills %}
-                <span class="caption-skill">{{ skill }}</span>
-                {% endfor %}
+                <span class="caption-skill">{{ site.author.frameworksskills }}</span>
             </div>
             {% endif %}
 
