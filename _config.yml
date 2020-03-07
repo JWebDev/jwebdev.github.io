@@ -9,7 +9,7 @@ rss_url: /pages/atom.xml
 # Author settings
 author:
   name: Oleg Fedak
-  title: Senior Java Developer / DevOps Engineer
+  title: DevOps Engineer / Senior Java Developer
   address: Berlin, Germany
   email: surnamename#gmail.com
   link: #
@@ -35,7 +35,7 @@ author:
       duration: (2017 - 2020)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work3:
-      company: <s>primervoto GmbH</s> -> Solactive AG
+      company: <s>primervoto GmbH</s> &#8594 Solactive AG
       location: Berlin, Germany
       title: Senior Java Developer
       started: 2017
@@ -49,14 +49,14 @@ author:
       duration: (2014 - 2017)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work5:
-      company: <s>xx-well gmbh</s> -> <s>Welldoo GmbH</s> -> Vilua Healthcare GmbH
+      company: <s>xx-well gmbh</s> &#8594 <s>Welldoo GmbH</s> &#8594 Vilua Healthcare GmbH
       location: Berlin, Germany
       title: Working student (Java Backend Developer / Frontend Developer)
       started: 2012
       duration: (2012 - 2014)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work6:
-      company: <s>Steria Mummert Consulting GmbH</s> -> Sopra Steria SE
+      company: <s>Steria Mummert Consulting GmbH</s> &#8594 Sopra Steria SE
       location: Berlin, Germany
       title: Working student (Java Backend Developer / Frontend Developer)
       started: 2011
@@ -190,19 +190,19 @@ author:
       percentage: 100%
     - skill5:
       name: Kubernetes
-      percentage: 90%
-    - skill6:
-      name: Terraform
-      percentage: 80%
-    - skill7:
-      name: Java
-      percentage: 70%
-    - skill8:
-      name: Databases
-      percentage: 75%
-    - skill9:
-      name: Python
-      percentage: 80%
-    - skill10:
-      name: Go
-      percentage: 80%
+      percentage: 100%
+#    - skill6:
+#      name: Terraform
+#      percentage: 80%
+#    - skill7:
+#      name: Java
+#      percentage: 70%
+#    - skill8:
+#      name: Databases
+#      percentage: 75%
+#    - skill9:
+#      name: Python
+#      percentage: 80%
+#    - skill10:
+#      name: Go
+#      percentage: 80%
