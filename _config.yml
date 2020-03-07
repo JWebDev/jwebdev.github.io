@@ -16,9 +16,9 @@ author:
   github: JWebDev
   linkedin: oleg-fedak-b9a03196
   xing: Oleg_Fedak2
-#  gavatar: /JWebDev.github.io/assets/img/avatar.JPG
+  #  gavatar: /JWebDev.github.io/assets/img/avatar.JPG
   stackoverflow:
-#    stackoverflow: 1590594
+  #    stackoverflow: 1590594
   workHistory:
     - work1:
       company: kv.digital GmbH
@@ -133,14 +133,17 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
-      proficiency: Native
-    - language2:
       name: English
-      proficiency: Professional
+      proficiency: Proficient
+    - language2:
+      name: German
+      proficiency: Proficient
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: Ukrainian
+      proficiency: Native
+    - language4:
+      name: Russian
+      proficiency: Native
   programmingSkills:
     - skill1:
       name: HTML
