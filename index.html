@@ -39,7 +39,7 @@ layout: default
                             {% if work.descriptionscount %}
                             <ul>
                                 {% for index in work.descriptionscount %}
-                                <li>{{ work.description[index] }}</li>
+                                <li>{{ work.description index }}</li>
                                 {% endfor %}
                             </ul>
                             {% endif %}
