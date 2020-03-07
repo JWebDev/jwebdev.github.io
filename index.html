@@ -38,7 +38,7 @@ layout: default
                         <div class="timeline-body">
                             {% if work.description %}
                             <ul>
-                                <li>{{ work.description }}</li>
+                                {{ work.description }}
                             </ul>
                             {% endif %}
                         </div>
@@ -59,6 +59,9 @@ layout: default
             <ul class="timeline">
                 {% for project in site.author.projects %}
                 <li class="timeline-inverted">
+                    {% if project.started %}
+                    <div class="timeline-badge info">{{ project.started }}</div>
+                    {% endif %}
                     <div class="timeline-panel grid-block">
                         <div class="timeline-body">
                             {% if project.description %}
