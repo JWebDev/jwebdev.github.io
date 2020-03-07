@@ -30,7 +30,7 @@ layout: default
                             <h4 class="timeline-title">{{ work.company }} </h4>
                             {% endif %}
                             <p>
-                                <small class="text-muted">
+                                <small class="text-muted-work">
                                     {% if work.title %}
                                     {{ work.title }}
                                     {% endif %}
@@ -201,10 +201,10 @@ layout: default
                 <script>
                     if (isMobile()) {
                         document.getElementById("codewars").innerHTML +=
-                            "<a href=\"https://www.codewars.com/users/_JDev_\"><img src=\"https://www.codewars.com/users/_JDev_/badges/micro\"></a>";
+                            "<a href=\"https://www.codewars.com/users/_JDev_\"><img style=\"display: block; margin: auto\" src=\"https://www.codewars.com/users/_JDev_/badges/micro\"></a>";
                     } else {
                         document.getElementById("codewars").innerHTML +=
-                            "<a href=\"https://www.codewars.com/users/_JDev_\"><img src=\"https://www.codewars.com/users/_JDev_/badges/large\"></a>";
+                            "<a href=\"https://www.codewars.com/users/_JDev_\"><img style=\"display: block; margin: auto\" src=\"https://www.codewars.com/users/_JDev_/badges/large\"></a>";
                     }
                 </script>
 
