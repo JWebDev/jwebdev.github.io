@@ -526,15 +526,8 @@ hr {
 
 .skill-tag {
     border: 1px solid #63A4B5;
-    border-radius: 15px;
-    padding: 2px;
-}
-
-.skill-tag1 {
-    border: 1px solid #999999;
-    border-radius: 15px;
-    padding: 2px;
-    margin: 10px;
+    border-radius: 10px;
+    margin: 3px;
 }
 
 /*.fa-free-code-camp {*/
