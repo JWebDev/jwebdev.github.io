@@ -74,7 +74,7 @@ author:
         <li>Big migration from JBoss to WildFly.</li>
         <li>Created and implemented microservices with Spring, Oracle, Maven, Hibernate, etc.</li>
         <li>CI/CD with Gitlab, Artifactory, JFrog, Jenkins, etc.</li>
-        <li>Developed Web Frontend with AngularJS.</li></ul>
+        <li>Developed Web Frontend with AngularJS.</li>
         <li>Automated deployment to AWS with Ansible.</li></ul>
       technologies: Java 7/8, Oracle, Spring. Hibernate, Maven, AWS, Ansible, GitLab, JFrog, Jenkins, Wildfly, AngularJS
     - work5:
@@ -110,7 +110,7 @@ author:
       duration: (2007 - 2008)
       description: >
         <ul><li>Repair, maintenance and assembly of computer hardware.</li>
-        <li>Virus removal, cleaning.</li></ul>
+        <li>Virus removal, cleaning.</li>
         <li>Installation of operating systems. HDD backups.</li></ul>
       technologies:
     - work8:
