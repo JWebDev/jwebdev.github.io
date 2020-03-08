@@ -176,7 +176,8 @@ author:
       name: Other
       started: 2012
       duration: 2012-2014
-      description: > <li>A chess game developed using Java Sockets and Java Swing with following features&#58 local and network game,
+      description: >
+      <li>A chess game developed using Java Sockets and Java Swing with following features&#58 local and network game,
       2D chess board, 2-player mode, clock, chat, save/continue network game, animation during figure selection.</li>
       <li>A “Sudoku" game with game generation algorithm, level of complexity and a database storage for iPhone using Objective C and Cocoa.</li>
       <li>A “MapTracker” project developed using Android. The aim of the project&#58 to save the GPS coordinates
