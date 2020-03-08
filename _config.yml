@@ -25,11 +25,15 @@ author:
       title: DevOps Engineer
       started: 2020
       duration: (2020 - Present)
-      description: [<li>I am not a description1. I am not description.I am not description.</li>
-                      <li>I am not a description2. I am not description.I am not description.</li>
-                      <li>I am not a description3. I am not description.I am not description.</li>
-                      <li>I am not a description4. I am not description.I am not description.</li>
-                      <li>I am not a description5. I am not description.I am not description.</li>
+      description: [<li>Created and maintained SonarQube Server.</li>
+                      <li>Dockerizing microservices for rapidl development and deployment, Relational/NoSQL Databases, other tools and frameworks.</li>
+                      <li>Created and maintained Jenkins to execute the continuous integration of code to ensure the quality of the code.</li>
+                      <li>Built Jenkins CI/CD pipelines in Groovy to automate the code releases, building Docker containers and updating Confluence/JIRA states through REST API.</li>
+                      <li>Cron Jobs for cleaning outdated projects/branches etc.</li>
+                      <li>Built a continuous delivery pipelines using Jenkins to support the continuous development process.</li>
+                      <li>Python scripts for Jenkins and Nexus migrations.</li>
+                      <li>Improvement and adjustment of processes between Development and Operations teams.</li>
+                      <li>Introduced Spring Boot Admin for a better overview of metrics.</li>
       ]
       technologies: Docker, Jenkins, Jenkins Pipelines, Nexus, Java 11, MySQL, Spring Boot. Spring Boot Admin, Maven, Ansible, Groovy, Python, SonarQube
     - work2:
@@ -38,11 +42,15 @@ author:
       title: Senior Java Developer / DevOps Engineer
       started: 2017
       duration: (2017 - 2020)
-      description: [<li>I am not a description1. I am not description.I am not description.</li>
-                      <li>I am not a description2. I am not description.I am not description.</li>
-                      <li>I am not a description3. I am not description.I am not description.</li>
-                      <li>I am not a description4. I am not description.I am not description.</li>
-                      <li>I am not a description5. I am not description.I am not description.</li>
+      description: [<li>Development and support of a complex CQRS system.</li>
+                      <li>Development in a small team of a highly customizable healthcare product.</li>
+                      <li>Development doctor/practice search platform using Apache Lucene search engine.</li>
+                      <li>Protected administrator's office access to configure the system.</li>
+                      <li>Created infrastructure, test and dev environments with Docker, CI/CD and programmed Microservices.</li>
+                      <li>OpenAPI Specification for the system.</li>
+                      <li>Systems used to program the project&#58 Spring Boot/Spring Security/Hibernate/Angular.</li>
+                      <li>Built Jenkins CI/CD pipelines in Groovy to automate all processes.</li>
+                      <li>System support Support system with updated and patched libraries to increase security.</li>
       ]
       technologies: Java 8/11, MySQL, Spring Boot. Spring Security, Hibernate, Maven, Jersey, Nexus, Jenkins, Docker, OpenAPI, Liquibase, SonarQube
     - work3:
@@ -51,7 +59,7 @@ author:
       title: Senior Java Developer
       started: 2017
       duration: (2017 - 2017)
-      description: [<li>Development of services for financial exchange. Most used technologies for development: Java 8, Spring Boot, Play Framework, MySQL, Maven, sbt, etc.</li>
+      description: [<li>Development of services for financial exchange. Most used technologies for development&#58 Java 8, Spring Boot, Play Framework, MySQL, Maven, sbt, etc.</li>
       ]
       technologies: Java 8, MySQL, Spring Boot. Hibernate, Maven, sbt, Play Framework, RESTEasy
     - work4:
@@ -139,11 +147,17 @@ author:
       started: 2017
       duration: 2017-Present
       link: <a href="http://concurrent-analytics.com" target="_blank"> <u>www.concurrent-analytics.com</u> </a>
-      description: [<li>I am not a description1. I am not description.I am not description.</li>
-                      <li>I am not a description2. I am not description.I am not description.</li>
-                      <li>I am not a description3. I am not description.I am not description.</li>
-                      <li>I am not a description4. I am not description.I am not description.</li>
-                      <li>I am not a description5. I am not description.I am not description.</li>
+      description: [<li>Created from scratch a kubernetes cluster for big data processing, data analytics, computing and machine learning using Apache Spark.</li>
+                      <li>Developed an entire infrastructure as Infrastructure-as-Code using Ansible, later rewritten using Terraform.</li>
+                      <li>Cluster logging&#58 Elasticserach, Kibana, Fluent Bit, Metricbeat.</li>
+                      <li>Cluster monitoring&#58 Prometheus and Grafana.</li>
+                      <li>Spark ecosystem&#58 Standalone Spark cluster with worker nodes, Spark history server, HDFS storage.</li>
+                      <li>Spring Boot Service as Backend with MySQL and MongoDB and Web Frontend with Angular.</li>
+                      <li>Autonomous TeamCity CI/CD server react to webhooks and takes an automatic deploy/redeploy.</li>
+                      <li>All TeamCity Pipelines developed as a code with Kotlin.</li>
+                      <li>Nexus as a repository for artefacts and docker images.</li>
+                      <li>Apache Zeppelin for fast access to Spark cluster.</li>
+                      <li>Helm as package manager for Kubernetes.</li>
       ]
       technologies: Kubernetes, Docker, Terraform, Apache Spark. HDFS, Helm. Elasticsearch, Kibana, Fluent Bit, Ansible, Prometheus, Grafana, MySQL, MongoDB, Angular, TeamCity, Kotlin, Nexus, Shell
     - project2:
@@ -151,7 +165,7 @@ author:
       started: 2016
       duration: 2016-2017
       link: <a href="https://play.google.com/store/apps/details?id=com.jdev.tutor" target="_blank"> <u>Words Tutor on PlayMarket</u> </a>
-      description: [<li>I am not a description1. I am not description.I am not description.</li>
+      description: [Built the "Words Tutor” App https://play.google.com/store/apps/details?id=com.jdev.tutor Android application helps users to learn new words in any language in a game mode. First as client-server app, after in one autonomous mode. The "Words Tutor” app has a lot of features&#58                                                                                                                                                                    <li>Creating a new dictionary from MS Word/Excel and text documents;</li>
                       <li>I am not a description2. I am not description.I am not description.</li>
                       <li>I am not a description3. I am not description.I am not description.</li>
                       <li>I am not a description4. I am not description.I am not description.</li>
@@ -162,10 +176,10 @@ author:
       name: Other
       started: 2012
       duration: 2012-2014
-      description: [<li>A chess game developed using Java Sockets and Java Swing with following features: local and network game, 2D chess board, 2-player mode, clock, chat, save/continue network
+      description: [<li>A chess game developed using Java Sockets and Java Swing with following features&#58 local and network game, 2D chess board, 2-player mode, clock, chat, save/continue network
                                                                                                                                                                                 game, animation during figure selection.</li>
                       <li>A “Sudoku" game with game generation algorithm, level of complexity and a database storage for iPhone using Objective C and Cocoa.</li>
-                      <li>A “MapTracker” project developed using Android. The aim of the project: to save the GPS coordinates during the movement using the background service and then to play the trip in Google 3D Maps.</li>
+                      <li>A “MapTracker” project developed using Android. The aim of the project&#58 to save the GPS coordinates during the movement using the background service and then to play the trip in Google 3D Maps.</li>
       ]
       technologies:  Java, Java Swing, Objective C, Cocoa, Android
   educationHistory:
