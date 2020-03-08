@@ -27,13 +27,15 @@ author:
       duration: (2020 - Present)
       description: >
         <ul><li>Created and maintained SonarQube Server.</li>
-        <li>Dockerizing microservices for rapidl development and deployment, Relational/NoSQL Databases, other tools and frameworks.</li>
-        <li>Created and maintained Jenkins to execute the continuous integration of code to ensure the quality of the code.</li>
+        <li>Dockerizing microservices for rapid development and deployment, Relational/NoSQL Databases, other tools and frameworks.</li>
+        <li>Created and maintained Jenkins to execute the continuous integration to ensure the quality of the code.</li>
         <li>Built Jenkins CI/CD pipelines in Groovy to automate the code releases, building Docker containers and updating Confluence/JIRA states through REST API.</li>
         <li>Cron Jobs for cleaning outdated projects/branches etc.</li>
         <li>Built a continuous delivery pipelines using Jenkins to support the continuous development process.</li>
         <li>Python scripts for Jenkins and Nexus migrations.</li>
         <li>Improvement and adjustment of processes between Development and Operations teams.</li>
+        <li>Creation of infrastructure for the web project and integration in CI/CD processes.</li>
+        <li>OWASP checks and analysis of Artifacts for security bugs and vulnerabilities.</li>
         <li>Introduced Spring Boot Admin for a better overview of metrics.</li></ul>
       technologies: Docker, Jenkins, Jenkins Pipelines, Nexus, Java 11, MySQL, Spring Boot. Spring Boot Admin, Maven, Ansible, Groovy, Python, SonarQube
     - work2:
@@ -46,12 +48,12 @@ author:
         <ul><li>Development and support of a complex CQRS system.</li>
         <li>Development in a small team of a highly customizable healthcare product.</li>
         <li>Development doctor/practice search platform using Apache Lucene search engine.</li>
-        <li>Protected administrator's office access to configure the system.</li>
+        <li>Protected administrator's access to configure the system.</li>
         <li>Created infrastructure, test and dev environments with Docker, CI/CD and programmed Microservices.</li>
-        <li>OpenAPI Specification for the system.</li>
-        <li>Systems used to program the project&#58 Spring Boot/Spring Security/Hibernate/Angular.</li>
+        <li>OpenAPI Specification for the project development.</li>
+        <li>Systems used to program the project&#58 Spring Boot, Spring Security, Hibernate, Angular, etc.</li>
         <li>Built Jenkins CI/CD pipelines in Groovy to automate all processes.</li>
-        <li>System support Support system with updated and patched libraries to increase security.</li></ul>
+        <li>Updated and patched libraries to increase security.</li></ul>
       technologies: Java 8/11, MySQL, Spring Boot. Spring Security, Hibernate, Maven, Jersey, Nexus, Jenkins, Docker, OpenAPI, Liquibase, SonarQube
     - work3:
       company: <s>Primervoto GmbH</s> &#8594 Solactive AG
@@ -70,9 +72,10 @@ author:
       description: >
         <ul><li>Development of software for more than 350 publishing houses.</li>
         <li>Big migration from JBoss to WildFly.</li>
-        <li>Creating and implementing microservices with Spring, Oracle, Maven, Hibernate etc.</li>
-        <li>CI/CD with Gitlab, Artifactory, JFrog, Jenkins etc.</li>
-        <li>Developing Web Frontend with AngularJS.</li></ul>
+        <li>Created and implemented microservices with Spring, Oracle, Maven, Hibernate, etc.</li>
+        <li>CI/CD with Gitlab, Artifactory, JFrog, Jenkins, etc.</li>
+        <li>Developed Web Frontend with AngularJS.</li></ul>
+        <li>Automated deployment to AWS with Ansible.</li></ul>
       technologies: Java 7/8, Oracle, Spring. Hibernate, Maven, AWS, Ansible, GitLab, JFrog, Jenkins, Wildfly, AngularJS
     - work5:
       company: <s>xx-well GmbH</s> &#8594 <s>Welldoo GmbH</s> &#8594 Vilua Healthcare GmbH
@@ -82,7 +85,7 @@ author:
       duration: (2012 - 2014)
       description: >
         <ul><li>Development of software for eHealth and other areas.</li>
-        <li>Developing and maintaining microservices with Java, Spring, Oracle, Maven, Hibernate etc.</li>
+        <li>Developed and maintained microservices with Java, Spring, Oracle, Maven, Hibernate, etc.</li>
         <li>Swagger for REST documentation, Flyway for database migrations.</li>
         <li>Maintenance of JSP/JSF Web Frontend.</li>
         <li>Bachelor thesis “Microservices Architecture”.</li></ul>
@@ -95,7 +98,7 @@ author:
       duration: (2011 - 2012)
       description: >
         <ul><li>Development of software for GAS-X project.</li>
-        <li>Developing with Java, JavaEE, JavaScript, JQuery, ExtJS etc.</li>
+        <li>Development using Java, JavaEE, JavaScript, JQuery, ExtJS etc.</li>
         <li>Research and prototyping of SpreadSheet web components.</li>
         <li>Research tasks for replacement of Active-X components.</li></ul>
       technologies: Java, JavaEE, JavaScript, ExtJS, jQuery, JFreeChart
@@ -107,7 +110,8 @@ author:
       duration: (2007 - 2008)
       description: >
         <ul><li>Repair, maintenance and assembly of computer hardware.</li>
-        <li>Virus removal, cleaning. Installations of operating systems. HDD backups.</li></ul>
+        <li>Virus removal, cleaning.</li></ul>
+        <li>Installation of operating systems. HDD backups.</li></ul>
       technologies:
     - work8:
       company: Konica Minolta
@@ -116,7 +120,7 @@ author:
       started: 2006
       duration: (2006 - 2007)
       description: >
-        <ul><li>Worker in a photo/design studio.</li>
+        <ul><li>Designer in a photo/design studio.</li>
         <li>Retouching, mounting, restoration, business cards, collages, posters, banners with Adobe Photoshop, Adobe Illustrator and CorelDraw.</li>
         <li>Video montage with Adobe Premiere and Adobe After Effects.</li>
         <li>Web banners with Flash and ActionScript.</li>
@@ -128,7 +132,7 @@ author:
       title: Computer network administrator
       started: 2006
       duration: (2006 - 2006)
-      description: Created, configured, built and maintained of internet networks for customers.
+      description: Created, configured, built and maintained internet networks for customers.
       technologie§s:
     - work10:
       company: Internet cafe "Krapka"
@@ -136,7 +140,7 @@ author:
       title: Internet cafe administrator
       started: 2005
       duration: (2005 - 2006)
-      description: Customer service in the Internet cafe, support for the health and performance of computers, session control, setting up network games.
+      description: Customer service in the Internet cafe, performance support of computers, session control, setting up network games.
       technologies:
   projects:
     - project1:
@@ -151,7 +155,7 @@ author:
         <li>Cluster monitoring&#58 Prometheus and Grafana.</li>
         <li>Spark ecosystem&#58 Standalone Spark cluster with worker nodes, Spark history server, HDFS storage.</li>
         <li>Spring Boot Service as Backend with MySQL and MongoDB and Web Frontend with Angular.</li>
-        <li>Autonomous TeamCity CI/CD server react to webhooks and takes an automatic deploy/redeploy.</li>
+        <li>Autonomous TeamCity CI/CD server reacts to webhooks and takes an automatic deploy/redeploy.</li>
         <li>All TeamCity Pipelines developed as a code with Kotlin.</li>
         <li>Nexus as a repository for artefacts and docker images.</li>
         <li>Apache Zeppelin for fast access to Spark cluster.</li>
@@ -163,13 +167,14 @@ author:
       duration: 2016-2017
       link: <a href="https://play.google.com/store/apps/details?id=com.jdev.tutor" target="_blank"> <u>Words Tutor on PlayMarket</u> </a>
       description: >
-        Built the "Words Tutor” Android application helps users to learn new words in any language in a game mode. First as client-server app, after in one autonomous mode. (What does it mean first and after?)
+        Built the "Words Tutor” Android application helps users to learn new words in any language in a game mode. Initially developed as a client-server app and later re-developed in one
+        autonomous mode.
         The "Words Tutor” app has a lot of features&#58
         <ul><li>Creating a new dictionary from MS Word/Excel and text documents;</li>
         <li>Importing dictionaries from Lingvo Tutor;</li>
         <li>Grouping renaming, deleting, sorting, moving dictionaries between groups;</li>
-        <li>10 different types of training;</li>
-        <li>Viewing dictionary words and the progress of studying, statistics after each training and possibility to reset the study results;</li>
+        <li>10 different types of trainings;</li>
+        <li>Ability to monitor the learning progress words and the progress statistics after each training session and possibility to reset the study results and dictionary review;</li>
         <li>Different public dictionaries are available for each user;</li>
         <li>Instant word adding service with one click after copying;</li>
         <li>Automatic translation of the word into more than 100 languages;</li>
@@ -186,8 +191,8 @@ author:
         <ul><li>A chess game developed using Java Sockets and Java Swing with following features&#58 local and network game,
         2D chess board, 2-player mode, clock, chat, save/continue network game, animation during figure selection.</li>
         <li>A “Sudoku" game with game generation algorithm, level of complexity and a database storage for iPhone using Objective C and Cocoa.</li>
-        <li>A “MapTracker” project developed using Android. The aim of the project&#58 to save the GPS coordinates
-        during the movement using the background service and then to play the trip in Google 3D Maps.</li></ul>
+        <li>A “MapTracker” project developed using Android. The aim of the project is to save the GPS coordinates
+        during the user movement using the background service and then to play the trip in Google 3D Maps.</li></ul>
       technologies:  Java, Java Swing, Objective C, Cocoa, Android
   educationHistory:
     - education1:
