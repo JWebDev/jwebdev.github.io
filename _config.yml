@@ -4,7 +4,6 @@ description: Oleg Fedak CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://JWebDev.github.io
 url: https://JWebDev.github.io
-rss_url: /pages/atom.xml
 
 # Author settings
 author:
@@ -16,8 +15,6 @@ author:
   github: JWebDev
   linkedin: oleg-fedak-b9a03196
   xing: Oleg_Fedak2
-  stackoverflow:
-  #    stackoverflow: 1590594
   workHistory:
     - work1:
       company: kv.digital GmbH
@@ -25,16 +22,16 @@ author:
       title: DevOps Engineer
       started: 2020
       duration: (2020 - Present)
-      description: [<li>Created and maintained SonarQube Server.</li>
-                      <li>Dockerizing microservices for rapidl development and deployment, Relational/NoSQL Databases, other tools and frameworks.</li>
-                      <li>Created and maintained Jenkins to execute the continuous integration of code to ensure the quality of the code.</li>
-                      <li>Built Jenkins CI/CD pipelines in Groovy to automate the code releases, building Docker containers and updating Confluence/JIRA states through REST API.</li>
-                      <li>Cron Jobs for cleaning outdated projects/branches etc.</li>
-                      <li>Built a continuous delivery pipelines using Jenkins to support the continuous development process.</li>
-                      <li>Python scripts for Jenkins and Nexus migrations.</li>
-                      <li>Improvement and adjustment of processes between Development and Operations teams.</li>
-                      <li>Introduced Spring Boot Admin for a better overview of metrics.</li>
-      ]
+      description: >
+        <ul><li>Created and maintained SonarQube Server.</li>
+        <li>Dockerizing microservices for rapidl development and deployment, Relational/NoSQL Databases, other tools and frameworks.</li>
+        <li>Created and maintained Jenkins to execute the continuous integration of code to ensure the quality of the code.</li>
+        <li>Built Jenkins CI/CD pipelines in Groovy to automate the code releases, building Docker containers and updating Confluence/JIRA states through REST API.</li>
+        <li>Cron Jobs for cleaning outdated projects/branches etc.</li>
+        <li>Built a continuous delivery pipelines using Jenkins to support the continuous development process.</li>
+        <li>Python scripts for Jenkins and Nexus migrations.</li>
+        <li>Improvement and adjustment of processes between Development and Operations teams.</li>
+        <li>Introduced Spring Boot Admin for a better overview of metrics.</li></ul>
       technologies: Docker, Jenkins, Jenkins Pipelines, Nexus, Java 11, MySQL, Spring Boot. Spring Boot Admin, Maven, Ansible, Groovy, Python, SonarQube
     - work2:
       company: KV Telematik GmbH
@@ -42,16 +39,16 @@ author:
       title: Senior Java Developer / DevOps Engineer
       started: 2017
       duration: (2017 - 2020)
-      description: [<li>Development and support of a complex CQRS system.</li>
-                      <li>Development in a small team of a highly customizable healthcare product.</li>
-                      <li>Development doctor/practice search platform using Apache Lucene search engine.</li>
-                      <li>Protected administrator's office access to configure the system.</li>
-                      <li>Created infrastructure, test and dev environments with Docker, CI/CD and programmed Microservices.</li>
-                      <li>OpenAPI Specification for the system.</li>
-                      <li>Systems used to program the project&#58 Spring Boot/Spring Security/Hibernate/Angular.</li>
-                      <li>Built Jenkins CI/CD pipelines in Groovy to automate all processes.</li>
-                      <li>System support Support system with updated and patched libraries to increase security.</li>
-      ]
+      description: >
+        <ul><li>Development and support of a complex CQRS system.</li>
+        <li>Development in a small team of a highly customizable healthcare product.</li>
+        <li>Development doctor/practice search platform using Apache Lucene search engine.</li>
+        <li>Protected administrator's office access to configure the system.</li>
+        <li>Created infrastructure, test and dev environments with Docker, CI/CD and programmed Microservices.</li>
+        <li>OpenAPI Specification for the system.</li>
+        <li>Systems used to program the project&#58 Spring Boot/Spring Security/Hibernate/Angular.</li>
+        <li>Built Jenkins CI/CD pipelines in Groovy to automate all processes.</li>
+        <li>System support Support system with updated and patched libraries to increase security.</li></ul>
       technologies: Java 8/11, MySQL, Spring Boot. Spring Security, Hibernate, Maven, Jersey, Nexus, Jenkins, Docker, OpenAPI, Liquibase, SonarQube
     - work3:
       company: <s>Primervoto GmbH</s> &#8594 Solactive AG
@@ -59,8 +56,7 @@ author:
       title: Senior Java Developer
       started: 2017
       duration: (2017 - 2017)
-      description: [<li>Development of services for financial exchange. Most used technologies for development&#58 Java 8, Spring Boot, Play Framework, MySQL, Maven, sbt, etc.</li>
-      ]
+      description: Development of services for financial exchange. Most used technologies for development&#58 Java 8, Spring Boot, Play Framework, MySQL, Maven, sbt, etc.
       technologies: Java 8, MySQL, Spring Boot. Hibernate, Maven, sbt, Play Framework, RESTEasy
     - work4:
       company: Klopotek AG
@@ -68,12 +64,12 @@ author:
       title: Java Backend Developer / Frontend Developer
       started: 2014
       duration: (2014 - 2017)
-      description: [<li>Development of software for more than 350 publishing houses.</li>
-                      <li>Big migration from JBoss to WildFly.</li>
-                      <li>Creating and implementing microservices with Spring, Oracle, Maven, Hibernate etc.</li>
-                      <li>CI/CD with Gitlab, Artifactory, JFrog, Jenkins etc.</li>
-                      <li>Developing Web Frontend with AngularJS.</li>
-      ]
+      description: >
+        <ul><li>Development of software for more than 350 publishing houses.</li>
+        <li>Big migration from JBoss to WildFly.</li>
+        <li>Creating and implementing microservices with Spring, Oracle, Maven, Hibernate etc.</li>
+        <li>CI/CD with Gitlab, Artifactory, JFrog, Jenkins etc.</li>
+        <li>Developing Web Frontend with AngularJS.</li></ul>
       technologies: Java 7/8, Oracle, Spring. Hibernate, Maven, AWS, Ansible, GitLab, JFrog, Jenkins, Wildfly, AngularJS
     - work5:
       company: <s>xx-well GmbH</s> &#8594 <s>Welldoo GmbH</s> &#8594 Vilua Healthcare GmbH
@@ -81,12 +77,12 @@ author:
       title: Working student (Java Backend Developer / Frontend Developer)
       started: 2012
       duration: (2012 - 2014)
-      description: [<li>Development of software for eHealth and other areas.</li>
-                      <li>Developing and maintaining microservices with Java, Spring, Oracle, Maven, Hibernate etc.</li>
-                      <li>Swagger for REST documentation, Flyway for database migrations.</li>
-                      <li>Maintenance of JSP/JSF Web Frontend.</li>
-                      <li>Bachelor thesis “Microservices Architecture”.</li>
-      ]
+      description: >
+        <ul><li>Development of software for eHealth and other areas.</li>
+        <li>Developing and maintaining microservices with Java, Spring, Oracle, Maven, Hibernate etc.</li>
+        <li>Swagger for REST documentation, Flyway for database migrations.</li>
+        <li>Maintenance of JSP/JSF Web Frontend.</li>
+        <li>Bachelor thesis “Microservices Architecture”.</li></ul>
       technologies: Java 6/7, Oracle 11g, Apache Tomcat, Spring MVC/Data/Web Flow. Hibernate, Maven, Flyway, Swagger, Mockito, Jersey
     - work6:
       company: <s>Steria Mummert Consulting GmbH</s> &#8594 Sopra Steria SE
@@ -94,11 +90,11 @@ author:
       title: Working student (Java Backend Developer / Frontend Developer)
       started: 2011
       duration: (2011 - 2012)
-      description: [<li>Development of software for GAS-X project.</li>
-                      <li>Developing with Java, JavaEE, JavaScript, JQuery, ExtJS etc.</li>
-                      <li>Research and prototyping of SpreadSheet web components.</li>
-                      <li>Research tasks for replacement of Active-X components.</li>
-      ]
+      description: >
+        <ul><li>Development of software for GAS-X project.</li>
+        <li>Developing with Java, JavaEE, JavaScript, JQuery, ExtJS etc.</li>
+        <li>Research and prototyping of SpreadSheet web components.</li>
+        <li>Research tasks for replacement of Active-X components.</li></ul>
       technologies: Java, JavaEE, JavaScript, ExtJS, jQuery, JFreeChart
     - work7:
       company: Computer Center "Cluster"
@@ -106,9 +102,9 @@ author:
       title: Repair of computers
       started: 2007
       duration: (2007 - 2008)
-      description: [<li>Repair, maintenance and assembly of computer hardware.</li>
-                      <li>Virus removal, cleaning. Installations of operating systems. HDD backups.</li>
-      ]
+      description: >
+        <ul><li>Repair, maintenance and assembly of computer hardware.</li>
+        <li>Virus removal, cleaning. Installations of operating systems. HDD backups.</li></ul>
       technologies:
     - work8:
       company: Konica Minolta
@@ -116,12 +112,12 @@ author:
       title: Designer and video editing
       started: 2006
       duration: (2006 - 2007)
-      description: [<li>Worker in a photo/design studio.</li>
-                      <li>Retouching, mounting, restoration, business cards, collages, posters, banners with Adobe Photoshop, Adobe Illustrator and CorelDraw.</li>
-                      <li>Video montage with Adobe Premiere and Adobe After Effects.</li>
-                      <li>Web banners with Flash and ActionScript.</li>
-                      <li>Programmed cost accounting system using C++ Builder.</li>
-      ]
+      description: >
+        <ul><li>Worker in a photo/design studio.</li>
+        <li>Retouching, mounting, restoration, business cards, collages, posters, banners with Adobe Photoshop, Adobe Illustrator and CorelDraw.</li>
+        <li>Video montage with Adobe Premiere and Adobe After Effects.</li>
+        <li>Web banners with Flash and ActionScript.</li>
+        <li>Programmed cost accounting system using C++ Builder.</li></ul>
       technologies: Adobe Photoshop, Adobe Illustrator, CorelDraw, Adobe Premiere, Adobe After Effects, Flash, ActionScript, C++ Builder
     - work9:
       company: Computer Center "Terminal"
@@ -129,8 +125,8 @@ author:
       title: Computer network administrator
       started: 2006
       duration: (2006 - 2006)
-      description: [<li>Created, configured, built and maintained of internet networks for customers.</li>
-      ]
+      description: Created, configured, built and maintained of internet networks for customers.
+    ]
       technologies:
     - work10:
       company: Internet cafe "Krapka"
@@ -147,7 +143,7 @@ author:
       duration: 2017-Present
       link: <a href="http://concurrent-analytics.com" target="_blank"> <u>www.concurrent-analytics.com</u> </a>
       description: >
-        <li>Created from scratch a kubernetes cluster for big data processing, data analytics, computing and machine learning using Apache Spark.</li>
+        <ul><li>Created from scratch a kubernetes cluster for big data processing, data analytics, computing and machine learning using Apache Spark.</li>
         <li>Developed an entire infrastructure as Infrastructure-as-Code using Ansible, later rewritten using Terraform.</li>
         <li>Cluster logging&#58 Elasticserach, Kibana, Fluent Bit, Metricbeat.</li>
         <li>Cluster monitoring&#58 Prometheus and Grafana.</li>
@@ -157,7 +153,7 @@ author:
         <li>All TeamCity Pipelines developed as a code with Kotlin.</li>
         <li>Nexus as a repository for artefacts and docker images.</li>
         <li>Apache Zeppelin for fast access to Spark cluster.</li>
-        <li>Helm as package manager for Kubernetes.</li>
+        <li>Helm as package manager for Kubernetes.</li></ul>
       technologies: Kubernetes, Docker, Terraform, Apache Spark. HDFS, Helm. Elasticsearch, Kibana, Fluent Bit, Ansible, Prometheus, Grafana, MySQL, MongoDB, Angular, TeamCity, Kotlin, Nexus, Shell
     - project2:
       name: Words Tutor
@@ -165,10 +161,9 @@ author:
       duration: 2016-2017
       link: <a href="https://play.google.com/store/apps/details?id=com.jdev.tutor" target="_blank"> <u>Words Tutor on PlayMarket</u> </a>
       description: >
-        Built the "Words Tutor” App https://play.google.com/store/apps/details?id=com.jdev.tutor
-        Android application helps users to learn new words in any language in a game mode. First as client-server app, after in one autonomous mode. (What does it mean first and after?)
+        Built the "Words Tutor” Android application helps users to learn new words in any language in a game mode. First as client-server app, after in one autonomous mode. (What does it mean first and after?)
         The "Words Tutor” app has a lot of features&#58
-        <li>Creating a new dictionary from MS Word/Excel and text documents;</li>
+        <ul><li>Creating a new dictionary from MS Word/Excel and text documents;</li>
         <li>Importing dictionaries from Lingvo Tutor;</li>
         <li>Grouping renaming, deleting, sorting, moving dictionaries between groups;</li>
         <li>10 different types of training;</li>
@@ -179,18 +174,18 @@ author:
         <li>Add / edit / delete a word to/in an existing dictionary;</li>
         <li>Search in the dictionary by learned word or its translation;</li>
         <li>A lot of flexible settings, level of complexity for individual trainings, different themes;</li>
-        <li>Flexible configurable voice synthesizer;</li>
+        <li>Flexible configurable voice synthesizer;</li></ul>
       technologies:  Java, Android
     - project3:
       name: Other
       started: 2012
       duration: 2012-2014
       description: >
-        <li>A chess game developed using Java Sockets and Java Swing with following features&#58 local and network game,
+        <ul><li>A chess game developed using Java Sockets and Java Swing with following features&#58 local and network game,
         2D chess board, 2-player mode, clock, chat, save/continue network game, animation during figure selection.</li>
         <li>A “Sudoku" game with game generation algorithm, level of complexity and a database storage for iPhone using Objective C and Cocoa.</li>
         <li>A “MapTracker” project developed using Android. The aim of the project&#58 to save the GPS coordinates
-        during the movement using the background service and then to play the trip in Google 3D Maps.</li>
+        during the movement using the background service and then to play the trip in Google 3D Maps.</li></ul>
       technologies:  Java, Java Swing, Objective C, Cocoa, Android
   educationHistory:
     - education1:
