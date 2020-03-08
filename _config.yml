@@ -138,8 +138,7 @@ author:
       title: Internet cafe administrator
       started: 2005
       duration: (2005 - 2006)
-      description: [<li>Customer service in the Internet cafe, support for the health and performance of computers, session control, setting up network games.</li>
-      ]
+      description: Customer service in the Internet cafe, support for the health and performance of computers, session control, setting up network games.
       technologies:
   projects:
     - project1:
@@ -147,30 +146,40 @@ author:
       started: 2017
       duration: 2017-Present
       link: <a href="http://concurrent-analytics.com" target="_blank"> <u>www.concurrent-analytics.com</u> </a>
-      description: [<li>Created from scratch a kubernetes cluster for big data processing, data analytics, computing and machine learning using Apache Spark.</li>
-                      <li>Developed an entire infrastructure as Infrastructure-as-Code using Ansible, later rewritten using Terraform.</li>
-                      <li>Cluster logging&#58 Elasticserach, Kibana, Fluent Bit, Metricbeat.</li>
-                      <li>Cluster monitoring&#58 Prometheus and Grafana.</li>
-                      <li>Spark ecosystem&#58 Standalone Spark cluster with worker nodes, Spark history server, HDFS storage.</li>
-                      <li>Spring Boot Service as Backend with MySQL and MongoDB and Web Frontend with Angular.</li>
-                      <li>Autonomous TeamCity CI/CD server react to webhooks and takes an automatic deploy/redeploy.</li>
-                      <li>All TeamCity Pipelines developed as a code with Kotlin.</li>
-                      <li>Nexus as a repository for artefacts and docker images.</li>
-                      <li>Apache Zeppelin for fast access to Spark cluster.</li>
-                      <li>Helm as package manager for Kubernetes.</li>
-      ]
+      description: >
+        <li>Created from scratch a kubernetes cluster for big data processing, data analytics, computing and machine learning using Apache Spark.</li>
+        <li>Developed an entire infrastructure as Infrastructure-as-Code using Ansible, later rewritten using Terraform.</li>
+        <li>Cluster logging&#58 Elasticserach, Kibana, Fluent Bit, Metricbeat.</li>
+        <li>Cluster monitoring&#58 Prometheus and Grafana.</li>
+        <li>Spark ecosystem&#58 Standalone Spark cluster with worker nodes, Spark history server, HDFS storage.</li>
+        <li>Spring Boot Service as Backend with MySQL and MongoDB and Web Frontend with Angular.</li>
+        <li>Autonomous TeamCity CI/CD server react to webhooks and takes an automatic deploy/redeploy.</li>
+        <li>All TeamCity Pipelines developed as a code with Kotlin.</li>
+        <li>Nexus as a repository for artefacts and docker images.</li>
+        <li>Apache Zeppelin for fast access to Spark cluster.</li>
+        <li>Helm as package manager for Kubernetes.</li>
       technologies: Kubernetes, Docker, Terraform, Apache Spark. HDFS, Helm. Elasticsearch, Kibana, Fluent Bit, Ansible, Prometheus, Grafana, MySQL, MongoDB, Angular, TeamCity, Kotlin, Nexus, Shell
     - project2:
       name: Words Tutor
       started: 2016
       duration: 2016-2017
       link: <a href="https://play.google.com/store/apps/details?id=com.jdev.tutor" target="_blank"> <u>Words Tutor on PlayMarket</u> </a>
-      description: [<li>I am not a description1. I am not description.I am not description.</li>
-                      <li>I am not a description2. I am not description.I am not description.</li>
-                      <li>I am not a description3. I am not description.I am not description.</li>
-                      <li>I am not a description4. I am not description.I am not description.</li>
-                      <li>I am not a description5. I am not description.I am not description.</li>
-      ]
+      description: >
+        Built the "Words Tutor” App https://play.google.com/store/apps/details?id=com.jdev.tutor
+        Android application helps users to learn new words in any language in a game mode. First as client-server app, after in one autonomous mode. (What does it mean first and after?)
+        The "Words Tutor” app has a lot of features&#58
+        <li>Creating a new dictionary from MS Word/Excel and text documents;</li>
+        <li>Importing dictionaries from Lingvo Tutor;</li>
+        <li>Grouping renaming, deleting, sorting, moving dictionaries between groups;</li>
+        <li>10 different types of training;</li>
+        <li>Viewing dictionary words and the progress of studying, statistics after each training and possibility to reset the study results;</li>
+        <li>Different public dictionaries are available for each user;</li>
+        <li>Instant word adding service with one click after copying;</li>
+        <li>Automatic translation of the word into more than 100 languages;</li>
+        <li>Add / edit / delete a word to/in an existing dictionary;</li>
+        <li>Search in the dictionary by learned word or its translation;</li>
+        <li>A lot of flexible settings, level of complexity for individual trainings, different themes;</li>
+        <li>Flexible configurable voice synthesizer;</li>
       technologies:  Java, Android
     - project3:
       name: Other
