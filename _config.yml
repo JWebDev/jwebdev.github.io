@@ -4,6 +4,7 @@ description: Oleg Fedak CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://JWebDev.github.io
 url: https://JWebDev.github.io
+rss_url: /pages/atom.xml
 
 # Author settings
 author:
@@ -128,7 +129,7 @@ author:
       started: 2006
       duration: (2006 - 2006)
       description: Created, configured, built and maintained of internet networks for customers.
-    ]
+      ]
       technologies:
     - work10:
       company: Internet cafe "Krapka"
