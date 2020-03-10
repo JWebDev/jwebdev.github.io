@@ -28,7 +28,7 @@ author:
         <li>Dockerizing microservices for rapid development and deployment, Relational/NoSQL Databases, other tools and frameworks.</li>
         <li>Set up and maintained Jenkins to execute the continuous integration to ensure the quality of the code.</li>
         <li>Built Jenkins CI/CD pipelines in Groovy to automate the code releases, building Docker containers and updating Confluence/JIRA states through REST API.</li>
-        <li>Cron Jobs for cleaning outdated projects/branches etc.</li>
+        <li>Developed cron Jobs for cleaning outdated projects/branches etc.</li>
         <li>Built a continuous delivery pipelines using Jenkins to support the continuous development process.</li>
         <li>Python scripts for Jenkins and Nexus migrations.</li>
         <li>Improvement and adjustment of processes between Development and Operations teams.</li>
@@ -279,7 +279,7 @@ author:
     - skill10:
       name: Go
       percentage: 60%
-  expiriences:
+  experiences:
     - skill1:
       name: Java
       label: 10 years
