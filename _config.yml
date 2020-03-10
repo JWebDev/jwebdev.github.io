@@ -24,9 +24,9 @@ author:
       started: 2020
       duration: (2020 - Present)
       description: >
-        <ul><li>Created and maintained SonarQube Server.</li>
+        <ul><li>Set up and maintained SonarQube Server.</li>
         <li>Dockerizing microservices for rapid development and deployment, Relational/NoSQL Databases, other tools and frameworks.</li>
-        <li>Created and maintained Jenkins to execute the continuous integration to ensure the quality of the code.</li>
+        <li>Set up and maintained Jenkins to execute the continuous integration to ensure the quality of the code.</li>
         <li>Built Jenkins CI/CD pipelines in Groovy to automate the code releases, building Docker containers and updating Confluence/JIRA states through REST API.</li>
         <li>Cron Jobs for cleaning outdated projects/branches etc.</li>
         <li>Built a continuous delivery pipelines using Jenkins to support the continuous development process.</li>
