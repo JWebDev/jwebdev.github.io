@@ -1,6 +1,4 @@
-# Oleg's Extended CV
--------
-[Oleg's Extended CV ](https://jwebdev.github.io)
+# [Oleg's Extended CV ](https://jwebdev.github.io)
 
 ## License
 -------
