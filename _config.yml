@@ -32,7 +32,7 @@ author:
         <li>Built a continuous delivery pipelines using Jenkins to support the continuous development process.</li>
         <li>Python scripts for Jenkins and Nexus migrations.</li>
         <li>Improvement and adjustment of processes between Development and Operations teams.</li>
-        <li>Creation of infrastructure for the web project and integration in CI/CD processes.</li>
+        <li>Creation of infrastructure for the web projects and integration in CI/CD processes.</li>
         <li>OWASP checks and analysis of Artifacts for security bugs and vulnerabilities.</li>
         <li>Introduced Spring Boot Admin for a better overview of metrics.</li></ul>
       technologies: Docker, Jenkins, Jenkins Pipelines, Nexus, Java 11, MySQL, Spring Boot. Spring Boot Admin, Maven, Ansible, Groovy, Python, SonarQube
@@ -54,7 +54,7 @@ author:
         <li>Updated and patched libraries to increase security.</li></ul>
       technologies: Java 8/11, MySQL, Spring Boot. Spring Security, Hibernate, Maven, Jersey, Nexus, Jenkins, Docker, OpenAPI, Liquibase, SonarQube
     - work3:
-      company: <s>Primervoto GmbH</s> &#8594 Solactive AG
+      company: Solactive AG (formerly known as Primervoto GmbH)
       location: Berlin, Germany
       title: Senior Java Developer
       started: 2017
@@ -76,7 +76,7 @@ author:
         <li>Automated deployment to AWS with Ansible.</li></ul>
       technologies: Java 7/8, Oracle, Spring. Hibernate, Maven, AWS, Ansible, GitLab, JFrog, Jenkins, Wildfly, AngularJS
     - work5:
-      company: <s>xx-well GmbH</s> &#8594 <s>Welldoo GmbH</s> &#8594 Vilua Healthcare GmbH
+      company: Vilua Healthcare GmbH (formerly known as xx-well GmbH and Welldoo GmbH)
       location: Berlin, Germany
       title: Working student (Java Backend Developer / Frontend Developer)
       started: 2012
@@ -89,7 +89,7 @@ author:
         <li>Bachelor thesis “Microservices Architecture”.</li></ul>
       technologies: Java 6/7, Oracle 11g, Apache Tomcat, Spring MVC/Data/Web Flow. Hibernate, Maven, Flyway, Swagger, Mockito, Jersey
     - work6:
-      company: <s>Steria Mummert Consulting GmbH</s> &#8594 Sopra Steria SE
+      company: Sopra Steria SE (formerly known as Steria Mummert Consulting GmbH)
       location: Berlin, Germany
       title: Working student (Java Backend Developer / Frontend Developer)
       started: 2011
@@ -148,13 +148,13 @@ author:
       title: Founder & CEO
       link: <a href="http://concurrent-analytics.com" target="_blank"> <u>www.concurrent-analytics.com</u> </a>
       description: >
-        <ul><li>Created from scratch a kubernetes cluster for big data processing, data analytics, computing and machine learning using Apache Spark.</li>
+        <ul><li>Created from the scratch a Kubernetes cluster for big data processing, data analytics, computing and machine learning using Apache Spark.</li>
         <li>Developed an entire infrastructure as Infrastructure-as-Code using Ansible, later rewritten using Terraform.</li>
         <li>Cluster logging&#58 Elasticserach, Kibana, Fluent Bit, Metricbeat.</li>
         <li>Cluster monitoring&#58 Prometheus and Grafana.</li>
         <li>Spark ecosystem&#58 Standalone Spark cluster with worker nodes, Spark history server, HDFS storage.</li>
         <li>Spring Boot Service as Backend with MySQL and MongoDB and Web Frontend with Angular.</li>
-        <li>Autonomous TeamCity CI/CD server reacts to webhooks and takes an automatic deploy/redeploy.</li>
+        <li>Autonomous TeamCity CI/CD server that reacts to webhooks and takes an automatic deploy/redeploy.</li>
         <li>All TeamCity Pipelines developed as a code with Kotlin.</li>
         <li>Nexus as a repository for artefacts and docker images.</li>
         <li>Apache Zeppelin for fast access to Spark cluster.</li>
