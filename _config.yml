@@ -16,7 +16,7 @@ author:
   github: JWebDev
   linkedin: oleg-fedak-b9a03196
   xing: Oleg_Fedak2
-  lastUpdateDate: 29.01.2021
+  lastUpdateDate: "Last Update: 29.01.2021"
   workHistory:
     - work1:
       company: kv.digital GmbH
@@ -24,8 +24,8 @@ author:
       title: DevOps Engineer
       started: 2020
       duration: (2020 - Present)
-      description: >
-        <ul><li>Built infrastructure for COVID-19 vaccination appointment booking system, including planning and maintenance, which was implemented across the entire Germany. <a href="http://concurrent-analytics.com" target="_blank"> <u>https://www.impfterminservice.de</u></a></li>
+      description:
+        <ul><li>Built infrastructure for COVID-19 vaccination appointment booking system, including planning and maintenance, which was implemented across the entire Germany. <a href="https://www.impfterminservice.de" target="_blank"><u>https://www.impfterminservice.de</u></a></li>
         <li>Planned, created and maintained the monitoring system for microservices to evaluate the internal specific metrics and behavior of the microservice in real time.</li>
         <li>Creation of product testing system and full automation of various types of tests (scenarios, performance, GUI ..) for different runtime environments.</li>
         <li>Planned, created and maintained a complex reporting system based on various time-dependent events.</li>
@@ -146,17 +146,17 @@ author:
       description: Customer service in the Internet cafe, performance support of computers, session control, setting up network games.
       technologies:
   projects:
-    - project1:
-      name: Kube Helper
-      started: 2020
-      duration: 2020-Present
-      title: Founder
-      link: <a href="https://github.com/JWebDev/kubehelper" target="_blank"> <u>https://github.com/JWebDev/kubehelper</u></a>
-      description: >
-        <ul><li>KubeHelper - an Open Source product developed from the scratch.</li>
-        <li>KubeHelper is a tool that simplifies many of the daily tasks associated with managing Kubernetes through a graphical web interface.</li>
-        <li>Read more about the KubeHelper project on wiki.<a href="https://github.com/JWebDev/kubehelper/wiki" target="_blank"> <u>https://github.com/JWebDev/kubehelper/wiki</u></a></li></ul>
-      technologies: Kubernetes, Terraform, Helm, Docker, Java, Spring Boot, Shell, Zk Framework
+#    - project1:
+#      name: Kube Helper
+#      started: 2020
+#      duration: 2020-Present
+#      title: Founder
+#      link: <a href="https://github.com/JWebDev/kubehelper" target="_blank"> <u>https://github.com/JWebDev/kubehelper</u></a>
+#      description: >
+#        <ul><li>KubeHelper - an Open Source product developed from the scratch.</li>
+#        <li>KubeHelper is a tool that simplifies many of the daily tasks associated with managing Kubernetes through a graphical web interface.</li>
+#        <li>Read more about the KubeHelper project on wiki.<a href="https://github.com/JWebDev/kubehelper/wiki" target="_blank"> <u>https://github.com/JWebDev/kubehelper/wiki</u></a></li></ul>
+#      technologies: Kubernetes, Terraform, Helm, Docker, Java, Spring Boot, Shell, Zk Framework
     - project2:
       name: Concurrent Analytics
       started: 2017
