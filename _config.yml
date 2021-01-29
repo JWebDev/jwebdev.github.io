@@ -16,7 +16,7 @@ author:
   github: JWebDev
   linkedin: oleg-fedak-b9a03196
   xing: Oleg_Fedak2
-  lastUpdateDate: "Last Update: 29.01.2021"
+  lastUpdateDate: " Last Update: 29.01.2021"
   workHistory:
     - work1:
       company: kv.digital GmbH
@@ -24,7 +24,7 @@ author:
       title: DevOps Engineer
       started: 2020
       duration: (2020 - Present)
-      description:
+      description: >
         <ul><li>Built infrastructure for COVID-19 vaccination appointment booking system, including planning and maintenance, which was implemented across the entire Germany. <a href="https://www.impfterminservice.de" target="_blank"><u>https://www.impfterminservice.de</u></a></li>
         <li>Planned, created and maintained the monitoring system for microservices to evaluate the internal specific metrics and behavior of the microservice in real time.</li>
         <li>Creation of product testing system and full automation of various types of tests (scenarios, performance, GUI ..) for different runtime environments.</li>
