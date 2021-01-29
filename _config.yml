@@ -9,13 +9,14 @@ rss_url: /pages/atom.xml
 # Author settings
 author:
   name: Oleg Fedak
-  title: DevOps Engineer / Senior Java Developer
+  title: Senior DevOps Engineer / Senior Java Developer
   address: Berlin, Germany
   email: surnamename#gmail.com
   link: #
   github: JWebDev
   linkedin: oleg-fedak-b9a03196
   xing: Oleg_Fedak2
+  lastUpdateDate: 29.01.2021
   workHistory:
     - work1:
       company: kv.digital GmbH
@@ -24,8 +25,12 @@ author:
       started: 2020
       duration: (2020 - Present)
       description: >
-        <ul><li>Set up and maintained SonarQube Server.</li>
+        <ul><li>Built infrastructure for COVID-19 vaccination appointment booking system, including planning and maintenance, which was implemented across the entire Germany. <a href="http://concurrent-analytics.com" target="_blank"> <u>https://www.impfterminservice.de</u></a></li>
+        <li>Planned, created and maintained the monitoring system for microservices to evaluate the internal specific metrics and behavior of the microservice in real time.</li>
+        <li>Creation of product testing system and full automation of various types of tests (scenarios, performance, GUI ..) for different runtime environments.</li>
+        <li>Planned, created and maintained a complex reporting system based on various time-dependent events.</li>
         <li>Dockerizing microservices for rapid development and deployment, Relational/NoSQL Databases, other tools and frameworks.</li>
+        <li>Set up and maintained SonarQube Server.</li>
         <li>Set up and maintained Jenkins to execute the continuous integration to ensure the quality of the code.</li>
         <li>Built Jenkins CI/CD pipelines in Groovy to automate the code releases, building Docker containers and updating Confluence/JIRA states through REST API.</li>
         <li>Developed cron Jobs for cleaning outdated projects/branches etc.</li>
@@ -35,7 +40,7 @@ author:
         <li>Creation of infrastructure for the web projects and integration in CI/CD processes.</li>
         <li>OWASP checks and analysis of Artifacts for security bugs and vulnerabilities.</li>
         <li>Introduced Spring Boot Admin for a better overview of metrics.</li></ul>
-      technologies: Docker, Jenkins, Jenkins Pipelines, Nexus, Java 11, MySQL, Spring Boot. Spring Boot Admin, Maven, Ansible, Groovy, Python, SonarQube
+      technologies: Elasticsearch, Kibana, Grafana, Prometheus, Groovy, Shell, Docker, Jenkins, Jenkins Pipelines, Nexus, Java 11, MySQL, Spring Boot. Spring Boot Admin, Maven, Ansible, Python, SonarQube
     - work2:
       company: KV Telematik GmbH
       location: Berlin, Germany
@@ -142,6 +147,17 @@ author:
       technologies:
   projects:
     - project1:
+      name: Kube Helper
+      started: 2020
+      duration: 2020-Present
+      title: Founder
+      link: <a href="https://github.com/JWebDev/kubehelper" target="_blank"> <u>https://github.com/JWebDev/kubehelper</u></a>
+      description: >
+        <ul><li>KubeHelper - an Open Source product developed from the scratch.</li>
+        <li>KubeHelper is a tool that simplifies many of the daily tasks associated with managing Kubernetes through a graphical web interface.</li>
+        <li>Read more about the KubeHelper project on wiki.<a href="https://github.com/JWebDev/kubehelper/wiki" target="_blank"> <u>https://github.com/JWebDev/kubehelper/wiki</u></a></li></ul>
+      technologies: Kubernetes, Terraform, Helm, Docker, Java, Spring Boot, Shell, Zk Framework
+    - project2:
       name: Concurrent Analytics
       started: 2017
       duration: 2017-Present
@@ -160,7 +176,7 @@ author:
         <li>Apache Zeppelin for fast access to Spark cluster.</li>
         <li>Helm as package manager for Kubernetes.</li></ul>
       technologies: Kubernetes, Docker, Terraform, Apache Spark. HDFS, Helm. Elasticsearch, Kibana, Fluent Bit, Ansible, Prometheus, Grafana, MySQL, MongoDB, Angular, TeamCity, Kotlin, Nexus, Shell
-    - project2:
+    - project3:
       name: Words Tutor
       started: 2016
       duration: 2016-2017
@@ -183,7 +199,7 @@ author:
         <li>A lot of flexible settings, level of complexity for individual trainings, different themes;</li>
         <li>Flexible configurable voice synthesizer;</li></ul>
       technologies:  Java, Android
-    - project3:
+    - project4:
       name: Other
       started: 2012
       duration: 2012-2014
@@ -268,7 +284,7 @@ author:
       name: Terraform
       percentage: 60%
     - skill7:
-      name: Nexus
+      name: Groovy
       percentage: 80%
     - skill8:
       name: Databases
@@ -282,43 +298,43 @@ author:
   experiences:
     - skill1:
       name: Java
-      label: 10 years
+      label: 11 years
       percentage: 100%
     - skill2:
       name: Spring / Spring Boot
-      label: 8 years
+      label: 9 years
       percentage: 80%
     - skill3:
       name: Linux
-      label: 8 years
+      label: 9 years
       percentage: 80%
     - skill4:
       name: Databases
-      label: 8 years
+      label: 9 years
       percentage: 80%
     - skill5:
       name: Jenkins
-      label: 6 years
+      label: 7 years
       percentage: 60%
     - skill6:
       name: Docker
-      label: 5 years
+      label: 6 years
       percentage: 50%
     - skill7:
       name: CI/CD
-      label: 5 years
+      label: 6 years
       percentage: 50%
     - skill8:
       name: Kubernetes
-      label: 4 years
+      label: 5 years
       percentage: 40%
     - skill9:
       name: DevOps
-      label: 4 years
+      label: 5 years
       percentage: 40%
     - skill10:
       name: Terraform
-      label: 1 year
+      label: 2 year
       percentage: 10%
   interestedon:
     - skill1:
@@ -351,11 +367,11 @@ author:
     #    - skill10:
     #      name: Go
     #      percentage: 80%
-  environment_skills: [Linux/MacOS, IntelliJ IDEA, Docker, Shell, Git]
+  environment_skills: [Linux/MacOS/Windows, IntelliJ IDEA, Docker, Shell, Git]
   languages_skills: [Java, Python, Go, Bash, SQL, JavaScript, Groovy]
   frameworks_skills: [Spring, Spring Boot, Apache Spark, Angular, Android SDK]
   paradigms_skills: [DevOps, Object-oriented Programming (OOP), CQRS, Agile Software Development(Scrum/Kanban), Dependency Injection, Microservices, Microservices Architecture, Continuous Integration (CI), Continuous Development (CD), Continuous Delivery (CD), REST, Unit/Integrations Testing, UML]
-  storage_skills: [MySQL, Oracle, MongoDB, Couchbase, SQLite]
+  storage_skills: [MySQL, Elasticsearch, Oracle, MongoDB, Couchbase, SQLite]
   tools_skills: [IntellJ IDEA, Gradle, Maven, sbt, Git, Jenkins, TeamCity, Nexus, SonarQube, Portainer, Visual Studio Code, Android Studio, Terraform, Kibana, Grafana]
   platforms_skills: [Kubernetes, Docker, Android, AWS, Vagrant, Linux, MacOS, Windows]
   libraries_skills: [Apache Lucene, Apache CXF, Jersey, RESTEasy, Flyway, Liquibase, Guava, JUnit, TestNG, Mockito, OpenAPI(Swagger), JAX-RS, Bean Validation, JPA]
