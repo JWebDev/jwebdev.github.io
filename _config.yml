@@ -27,8 +27,6 @@ author:
       description: >
         <ul><li>Built infrastructure for COVID-19 vaccination appointment booking system, including planning and maintenance, which was implemented across the entire Germany. <a href="https://www.impfterminservice.de" target="_blank"><u>https://www.impfterminservice.de</u></a></li>
         <li>Planned, created and maintained the monitoring system for microservices to evaluate the internal specific metrics and behavior of the microservice in real time.</li>
-#        <li>Creation of product testing system and full automation of various types of tests (scenarios, performance, GUI ..) for different runtime environments.</li>
-#        <li>Planned, created and maintained a complex reporting system based on various time-dependent events.</li>
         <li>Dockerizing microservices for rapid development and deployment, Relational/NoSQL Databases, other tools and frameworks.</li>
         <li>Set up and maintained SonarQube Server.</li>
         <li>Set up and maintained Jenkins to execute the continuous integration to ensure the quality of the code.</li>
