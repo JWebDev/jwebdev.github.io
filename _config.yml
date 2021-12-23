@@ -22,8 +22,8 @@ author:
       company: kv.digital GmbH
       location: Berlin, Germany
       title: Senior DevOps Engineer
-      started: 2020
-      duration: (2020 - Present)
+      started: 2021
+      duration: (2021 - Present)
       description: >
         <ul><li>Transformation of the infrastructure to move Microservices to Kubernetes.</li>
         <li>Installation and configuration of the Kubernetes cluster for test systems.</li>
@@ -36,7 +36,7 @@ author:
       location: Berlin, Germany
       title: Senior DevOps Engineer
       started: 2020
-      duration: (2020 - Present)
+      duration: (2020 - 2021)
       description: >
         <ul><li>Built infrastructure for COVID-19 vaccination appointment booking system, including planning and maintenance, which was implemented across the entire Germany. <a href="https://www.impfterminservice.de" target="_blank"><u>https://www.impfterminservice.de</u></a></li>
         <li>Planned, created and maintained the monitoring system for microservices to evaluate the internal specific metrics and behavior of the microservice in real time.</li>
