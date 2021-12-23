@@ -52,8 +52,7 @@ author:
         <li>Creation of infrastructure for the web projects and integration in CI/CD processes.</li>
         <li>OWASP checks and analysis of Artifacts for security bugs and vulnerabilities.</li>
         <li>Introduced Spring Boot Admin for a better overview of metrics.</li></ul>
-      technologies: Elasticsearch, Kibana, Grafana, Prometheus, Groovy, Shell, Docker, Jenkins, Jenkins Pipelines, Nexus, Java 11, MySQL, Spring Boot, Spring Boot Admin, Maven, Ansible, Python,
-      SonarQube
+      technologies: Elasticsearch, Kibana, Grafana, Prometheus, Groovy, Shell, Docker, Jenkins, Jenkins Pipelines, Nexus, Java 11, MySQL, Spring Boot, Spring Boot Admin, Maven, Ansible, Python, SonarQube
     - work3:
       company: KV Telematik GmbH
       location: Berlin, Germany
