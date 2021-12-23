@@ -16,9 +16,22 @@ author:
   github: JWebDev
   linkedin: oleg-fedak-b9a03196
   xing: Oleg_Fedak2
-  lastUpdateDate: " Last Update: 28.04.2021"
+  lastUpdateDate: " Last Update: 23.12.2021"
   workHistory:
     - work1:
+      company: kv.digital GmbH
+      location: Berlin, Germany
+      title: Senior DevOps Engineer
+      started: 2020
+      duration: (2020 - Present)
+      description: >
+        <ul><li>Transformation of the infrastructure to move Microservices to Kubernetes.</li>
+        <li>Installation and configuration of the Kubernetes cluster for test systems.</li>
+        <li>Setting up a load balancer, storage, monitoring, logging, security and everything that is needed for the full operation of applications.</li>
+        <li>Planning and implementation of Kubernetes CI/CD Pipelines for dynamic environments for different purposes.</li>
+        <li>Training and education of fellow administrators of the Kubernetes platform.</li></ul>
+      technologies: Kubernetes, Rancher, Traefik, Prometheus, Grafana, OpenSearch, HashiCorp Vault, Helm, Longhorn, Argo-cd/workflows/events/rollouts, Harbor, Lens, kubectl
+    - work2:
       company: kv.digital GmbH
       location: Berlin, Germany
       title: Senior DevOps Engineer
@@ -39,8 +52,9 @@ author:
         <li>Creation of infrastructure for the web projects and integration in CI/CD processes.</li>
         <li>OWASP checks and analysis of Artifacts for security bugs and vulnerabilities.</li>
         <li>Introduced Spring Boot Admin for a better overview of metrics.</li></ul>
-      technologies: Elasticsearch, Kibana, Grafana, Prometheus, Groovy, Shell, Docker, Jenkins, Jenkins Pipelines, Nexus, Java 11, MySQL, Spring Boot. Spring Boot Admin, Maven, Ansible, Python, SonarQube
-    - work2:
+      technologies: Elasticsearch, Kibana, Grafana, Prometheus, Groovy, Shell, Docker, Jenkins, Jenkins Pipelines, Nexus, Java 11, MySQL, Spring Boot, Spring Boot Admin, Maven, Ansible, Python,
+      SonarQube
+    - work3:
       company: KV Telematik GmbH
       location: Berlin, Germany
       title: Senior Java Developer / DevOps Engineer
@@ -57,7 +71,7 @@ author:
         <li>Built Jenkins CI/CD pipelines in Groovy to automate all processes.</li>
         <li>Updated and patched libraries to increase security.</li></ul>
       technologies: Java 8/11, MySQL, Spring Boot. Spring Security, Hibernate, Maven, Jersey, Nexus, Jenkins, Docker, OpenAPI, Liquibase, SonarQube
-    - work3:
+    - work4:
       company: Solactive AG (formerly known as Primervoto GmbH)
       location: Berlin, Germany
       title: Senior Java Developer
@@ -65,7 +79,7 @@ author:
       duration: (2017 - 2017)
       description: Development of services for financial exchange. Most used technologies for development&#58 Java 8, Spring Boot, Play Framework, MySQL, Maven, sbt, etc.
       technologies: Java 8, MySQL, Spring Boot. Hibernate, Maven, sbt, Play Framework, RESTEasy
-    - work4:
+    - work5:
       company: Klopotek AG
       location: Berlin, Germany
       title: Java Backend Developer / Frontend Developer
@@ -79,7 +93,7 @@ author:
         <li>Developed Web Frontend with AngularJS.</li>
         <li>Automated deployment to AWS with Ansible.</li></ul>
       technologies: Java 7/8, Oracle, Spring. Hibernate, Maven, AWS, Ansible, GitLab, JFrog, Jenkins, Wildfly, AngularJS
-    - work5:
+    - work6:
       company: Vilua Healthcare GmbH (formerly known as xx-well GmbH and Welldoo GmbH)
       location: Berlin, Germany
       title: Working student (Java Backend Developer / Frontend Developer)
@@ -92,7 +106,7 @@ author:
         <li>Maintenance of JSP/JSF Web Frontend.</li>
         <li>Bachelor thesis “Microservices Architecture”.</li></ul>
       technologies: Java 6/7, Oracle 11g, Apache Tomcat, Spring MVC/Data/Web Flow. Hibernate, Maven, Flyway, Swagger, Mockito, Jersey
-    - work6:
+    - work7:
       company: Sopra Steria SE (formerly known as Steria Mummert Consulting GmbH)
       location: Berlin, Germany
       title: Working student (Java Backend Developer / Frontend Developer)
@@ -104,7 +118,7 @@ author:
         <li>Research and prototyping of SpreadSheet web components.</li>
         <li>Research tasks for replacement of Active-X components.</li></ul>
       technologies: Java, JavaEE, JavaScript, ExtJS, jQuery, JFreeChart
-    - work7:
+    - work8:
       company: Computer Center "Cluster"
       location: Ternopil, Ukraine
       title: Repair of computers
@@ -115,7 +129,7 @@ author:
         <li>Virus removal, cleaning.</li>
         <li>Installation of operating systems. HDD backups.</li></ul>
       technologies:
-    - work8:
+    - work9:
       company: Konica Minolta
       location: Ternopil, Ukraine
       title: Designer and video editing
@@ -128,7 +142,7 @@ author:
         <li>Web banners with Flash and ActionScript.</li>
         <li>Programmed cost accounting system using C++ Builder.</li></ul>
       technologies: Adobe Photoshop, Adobe Illustrator, CorelDraw, Adobe Premiere, Adobe After Effects, Flash, ActionScript, C++ Builder
-    - work9:
+    - work10:
       company: Computer Center "Terminal"
       location: Ternopil, Ukraine
       title: Computer network administrator
@@ -265,76 +279,88 @@ author:
       proficiency: Native
   skills:
     - skill1:
-      name: Java
-      percentage: 100%
+      name: Kubernetes
+      percentage: 70%
     - skill2:
-      name: Spring / Spring Boot
-      percentage: 90%
+      name: Prometheus/Grafana
+      percentage: 70%
     - skill3:
+      name: OpenSearch
+      percentage: 50%
+    - skill4:
+      name: Traefik
+      percentage: 70%
+    - skill5:
+      name: Helm
+      percentage: 70%
+    - skill6:
       name: Docker
       percentage: 90%
-    - skill4:
+    - skill7:
+      name: Java
+      percentage: 100%
+    - skill8:
+      name: Spring / Spring Boot
+      percentage: 90%
+    - skill9:
       name: Jenkins
       percentage: 80%
-    - skill5:
-      name: Kubernetes
-      percentage: 60%
-    - skill6:
+    - skill10:
       name: Terraform
       percentage: 60%
-    - skill7:
+    - skill11:
       name: Groovy
       percentage: 80%
-    - skill8:
+    - skill12:
       name: Databases
       percentage: 75%
-    - skill9:
+    - skill13:
       name: Python
       percentage: 65%
-    - skill10:
+    - skill14:
       name: Go
       percentage: 60%
   experiences:
     - skill1:
       name: Java
-      label: 11 years
+      label: 12 years
       percentage: 100%
     - skill2:
       name: Spring / Spring Boot
-      label: 9 years
+      label: 10 years
       percentage: 80%
     - skill3:
       name: Linux
-      label: 9 years
+      label: 10 years
       percentage: 80%
     - skill4:
       name: Databases
-      label: 9 years
+      label: 10 years
       percentage: 80%
     - skill5:
       name: Jenkins
-      label: 7 years
+      label: 8 years
       percentage: 60%
     - skill6:
       name: Docker
-      label: 6 years
+      label: 7 years
       percentage: 50%
     - skill7:
       name: CI/CD
-      label: 6 years
+      label: 7 years
       percentage: 50%
     - skill8:
       name: Kubernetes
-      label: 5 years
-      percentage: 40%
+      label: 6 years
+      percentage: 50%
     - skill9:
       name: DevOps
-      label: 5 years
+      label: 6 years
       percentage: 40%
     - skill10:
       name: Terraform
-      label: 2 year
-      percentage: 10%
+      label: 3 year
+      percentage: 30%
   interestedon:
     - skill1:
       name: Data Engineering
