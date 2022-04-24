@@ -16,7 +16,7 @@ author:
   github: JWebDev
   linkedin: oleg-fedak-b9a03196
   xing: Oleg_Fedak2
-  lastUpdateDate: " Last Update: 23.12.2021"
+  lastUpdateDate: " Last Update: 25.04.2022"
   workHistory:
     - work1:
       company: kv.digital GmbH
@@ -30,7 +30,7 @@ author:
         <li>Setting up a load balancer, storage, monitoring, logging, security and everything that is needed for the full operation of applications.</li>
         <li>Planning and implementation of Kubernetes CI/CD Pipelines for dynamic environments for different purposes.</li>
         <li>Training and education of fellow administrators of the Kubernetes platform.</li></ul>
-      technologies: Kubernetes, Rancher, Traefik, Prometheus, Grafana, OpenSearch, HashiCorp Vault, Helm, Longhorn, Argo-cd/workflows/events/rollouts, Harbor, Lens, kubectl
+      technologies: Kubernetes, Rancher, Traefik, Prometheus, Grafana, OpenSearch, HashiCorp Vault, Helm, Longhorn, Argo-cd/workflows/events/rollouts, Lens, kubectl
     - work2:
       company: kv.digital GmbH
       location: Berlin, Germany
@@ -159,6 +159,15 @@ author:
       technologies:
   projects:
     - project1:
+      name: SaaS DevOps Platform
+      started: 2021
+      duration: 2021-Present
+      title: Founder/Developer
+      link: <a href="#" target="_blank"> <u>coming soon</u></a>
+      description: >
+        <ul><li>I currently develop the SaaS DevOps Platform as a side project. It is a hybrid platform with GCP and standalone servers. Status: in development.</li></ul>
+      technologies: Docker, GCP, Java, Spring Boot, Go, Vue JS, Traefik, OpenSearch, Prometheus, Grafana, Jaeger, OWASP ZAP
+    - project2:
       name: Kube Helper
       started: 2020
       duration: 2020-Present
@@ -169,7 +178,7 @@ author:
         <li>KubeHelper is a tool that simplifies many of the daily tasks associated with managing Kubernetes through a web interface. Search, analysis, run commands, cron jobs, reports, filters, git synchronization and many more.</li>
         <li>Read more about the KubeHelper project on wiki.<a href="https://github.com/KubeHelper/kubehelper/wiki" target="_blank"> <u>https://github.com/KubeHelper/kubehelper/wiki</u></a></li></ul>
       technologies: Kubernetes, Terraform, Helm, Docker, Java, Spring Boot, Shell, Zk Framework
-    - project2:
+    - project3:
       name: Concurrent Analytics
       started: 2017
       duration: 2017-Present
@@ -188,7 +197,7 @@ author:
         <li>Apache Zeppelin for fast access to Spark cluster.</li>
         <li>Helm as package manager for Kubernetes.</li></ul>
       technologies: Kubernetes, Docker, Terraform, Apache Spark. HDFS, Helm. Elasticsearch, Kibana, Fluent Bit, Ansible, Prometheus, Grafana, MySQL, MongoDB, Angular, TeamCity, Kotlin, Nexus, Shell
-    - project3:
+    - project4:
       name: Words Tutor
       started: 2016
       duration: 2016-2017
@@ -211,7 +220,7 @@ author:
         <li>A lot of flexible settings, level of complexity for individual trainings, different themes;</li>
         <li>Flexible configurable voice synthesizer;</li></ul>
       technologies:  Java, Android
-    - project4:
+    - project5:
       name: Other
       started: 2012
       duration: 2012-2014
@@ -287,38 +296,38 @@ author:
       name: OpenSearch
       percentage: 50%
     - skill4:
-      name: Traefik
+      name: Python
       percentage: 70%
     - skill5:
-      name: Helm
-      percentage: 70%
-    - skill6:
-      name: Docker
-      percentage: 90%
-    - skill7:
-      name: Java
-      percentage: 100%
-    - skill8:
-      name: Spring / Spring Boot
-      percentage: 90%
-    - skill9:
-      name: Jenkins
-      percentage: 80%
-    - skill10:
-      name: Terraform
-      percentage: 60%
-    - skill11:
-      name: Groovy
-      percentage: 80%
-    - skill12:
-      name: Databases
-      percentage: 75%
-    - skill13:
-      name: Python
-      percentage: 65%
-    - skill14:
       name: Go
       percentage: 60%
+    - skill6:
+      name: Traefik
+      percentage: 70%
+    - skill7:
+      name: Helm
+      percentage: 70%
+    - skill8:
+      name: Docker
+      percentage: 90%
+    - skill9:
+      name: Java
+      percentage: 100%
+    - skill10:
+      name: Spring / Spring Boot
+      percentage: 90%
+    - skill11:
+      name: Jenkins
+      percentage: 80%
+    - skill12:
+      name: Terraform
+      percentage: 60%
+    - skill13:
+      name: Groovy
+      percentage: 80%
+    - skill14:
+      name: Databases
+      percentage: 75%
   experiences:
     - skill1:
       name: Java
@@ -393,9 +402,9 @@ author:
     #      percentage: 80%
   environment_skills: [Linux/MacOS/Windows, IntelliJ IDEA, Docker, Shell, Git]
   languages_skills: [Java, Python, Go, Bash, SQL, JavaScript, Groovy]
-  frameworks_skills: [Spring, Spring Boot, Apache Spark, Angular, Android SDK]
-  paradigms_skills: [DevOps, Object-oriented Programming (OOP), CQRS, Agile Software Development(Scrum/Kanban), Dependency Injection, Microservices, Microservices Architecture, Continuous Integration (CI), Continuous Development (CD), Continuous Delivery (CD), REST, Unit/Integrations Testing, UML]
-  storage_skills: [MySQL, Elasticsearch, Oracle, MongoDB, Couchbase, SQLite]
-  tools_skills: [IntellJ IDEA, Gradle, Maven, sbt, Git, Jenkins, TeamCity, Nexus, SonarQube, Portainer, Visual Studio Code, Android Studio, Terraform, Kibana, Grafana]
-  platforms_skills: [Kubernetes, Docker, Android, AWS, Vagrant, Linux, MacOS, Windows]
-  libraries_skills: [Apache Lucene, Apache CXF, Jersey, RESTEasy, Flyway, Liquibase, Guava, JUnit, TestNG, Mockito, OpenAPI(Swagger), JAX-RS, Bean Validation, JPA]
+  frameworks_skills: [Spring, Spring Boot, Apache Spark, Hadoop, Angular, Android SDK]
+  paradigms_skills: [DevOps, Object-oriented Programming (OOP), CQRS, Agile Software Development(Scrum/Kanban), Dependency Injection, Microservices, Continuous Integration (CI), Continuous  Development (CD), Continuous Delivery (CD), REST, Unit/Integrations Testing, UML, Pipelines, etc...]
+  storage_skills: [MySQL, PostgreSQL, Elasticsearch, OpenSearch, Oracle, MongoDB, Couchbase, SQLite]
+  tools_skills: [IntellJ IDEA, Visual Studio Code, Android Studio, Gradle, Maven, sbt, Git, Jenkins, TeamCity, Nexus, SonarQube, Portainer, Terraform, Kibana, Prometheus, Grafana, Traefik, HashiCorp Vault, Helm,  Argo-CD/Workflows/Events, kubectl, etc...]
+  platforms_skills: [Kubernetes, Rancher, Docker, AWS, GCP, Azure, Vagrant, Linux, MacOS, Windows, Android]
+  libraries_skills: [Apache Lucene, Apache CXF, Jersey, RESTEasy, Flyway, Liquibase, Guava, JUnit, TestNG, Mockito, OpenAPI(Swagger), JAX-RS, Bean Validation, JPA, etc...]
