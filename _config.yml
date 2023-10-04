@@ -16,14 +16,38 @@ author:
   github: JWebDev
   linkedin: oleg-fedak-b9a03196
   xing: Oleg_Fedak2
-  lastUpdateDate: " Last Update: 25.04.2022"
+  lastUpdateDate: " Last Update: 04.10.2023"
   workHistory:
     - work1:
+      company: Pixelboxx GmbH
+      location: Dortmund, Germany
+      title: Senior DevOps Engineer
+      started: 2022
+      duration: (2022 - 2024)
+      description: >
+        <ul><li>Installation and maintenance of many bare metal Kubernetes clusters for development and testing purposes.</li>
+            <li>Installation, support, maintenance of production bare metal Kubernetes cluster and product installation for clients.</li>
+            <li>Setting up load balancers and integrating kubernetes clusters with a cloud provider.</li>
+            <li>Installation, support, maintenance of many Ceph clusters with terabytes of data.</li>
+            <li>Implementation of GitLab pipelines.</li>
+            <li>Implementation and maintenance of GitLab CI/CD Pipelines for dynamic environments on Kubernetes cluster for different purposes.</li>
+            <li>Maintenance and updates of self hosted GitLab server.</li>
+            <li>Creation of an infrastructure and monitoring system based on Prometheus and Grafana.</li>
+            <li>Creation of custom Prometheus exporters.</li>
+            <li>Creation of a system for collecting and analyzing logs.</li>
+            <li>Security: analysis and monitoring of product components and the system as a whole using various utilities and tools.</li>
+            <li>Creation and support of the system of backups for clusters.</li>
+            <li>Improvement, support and development of Helm charts for custom product installation.</li>
+            <li>Working with AWS and Azure.</li>
+            <li>Keycloak integration.</li>
+            <li>Migrations and various other DevOps related tasks.</li></ul>
+      technologies: Kubernetes, Ceph, Velero, NGINX Ingress, Prometheus, Grafana, Loki, Helm, kubectl, GitLab, CI/CD pipelines, Harbor, Keycloak, Istio, AWS, Azure, HashiCorp Vault, Lens, kubectl
+    - work2:
       company: kv.digital GmbH
       location: Berlin, Germany
       title: Senior DevOps Engineer
       started: 2021
-      duration: (2021 - Present)
+      duration: (2021 - 2022)
       description: >
         <ul><li>Transformation of the infrastructure to move Microservices to Kubernetes.</li>
         <li>Installation and configuration of the Kubernetes cluster for test systems.</li>
@@ -31,7 +55,7 @@ author:
         <li>Planning and implementation of Kubernetes CI/CD Pipelines for dynamic environments for different purposes.</li>
         <li>Training and education of fellow administrators of the Kubernetes platform.</li></ul>
       technologies: Kubernetes, Rancher, Traefik, Prometheus, Grafana, OpenSearch, HashiCorp Vault, Helm, Longhorn, Argo-cd/workflows/events/rollouts, Lens, kubectl
-    - work2:
+    - work3:
       company: kv.digital GmbH
       location: Berlin, Germany
       title: Senior DevOps Engineer
@@ -53,7 +77,7 @@ author:
         <li>OWASP checks and analysis of Artifacts for security bugs and vulnerabilities.</li>
         <li>Introduced Spring Boot Admin for a better overview of metrics.</li></ul>
       technologies: Elasticsearch, Kibana, Grafana, Prometheus, Groovy, Shell, Docker, Jenkins, Jenkins Pipelines, Nexus, Java 11, MySQL, Spring Boot, Spring Boot Admin, Maven, Ansible, Python, SonarQube
-    - work3:
+    - work4:
       company: KV Telematik GmbH
       location: Berlin, Germany
       title: Senior Java Developer / DevOps Engineer
@@ -70,7 +94,7 @@ author:
         <li>Built Jenkins CI/CD pipelines in Groovy to automate all processes.</li>
         <li>Updated and patched libraries to increase security.</li></ul>
       technologies: Java 8/11, MySQL, Spring Boot. Spring Security, Hibernate, Maven, Jersey, Nexus, Jenkins, Docker, OpenAPI, Liquibase, SonarQube
-    - work4:
+    - work5:
       company: Solactive AG (formerly known as Primervoto GmbH)
       location: Berlin, Germany
       title: Senior Java Developer
@@ -78,7 +102,7 @@ author:
       duration: (2017 - 2017)
       description: Development of services for financial exchange. Most used technologies for development&#58 Java 8, Spring Boot, Play Framework, MySQL, Maven, sbt, etc.
       technologies: Java 8, MySQL, Spring Boot. Hibernate, Maven, sbt, Play Framework, RESTEasy
-    - work5:
+    - work6:
       company: Klopotek AG
       location: Berlin, Germany
       title: Java Backend Developer / Frontend Developer
@@ -92,7 +116,7 @@ author:
         <li>Developed Web Frontend with AngularJS.</li>
         <li>Automated deployment to AWS with Ansible.</li></ul>
       technologies: Java 7/8, Oracle, Spring. Hibernate, Maven, AWS, Ansible, GitLab, JFrog, Jenkins, Wildfly, AngularJS
-    - work6:
+    - work7:
       company: Vilua Healthcare GmbH (formerly known as xx-well GmbH and Welldoo GmbH)
       location: Berlin, Germany
       title: Working student (Java Backend Developer / Frontend Developer)
@@ -105,7 +129,7 @@ author:
         <li>Maintenance of JSP/JSF Web Frontend.</li>
         <li>Bachelor thesis “Microservices Architecture”.</li></ul>
       technologies: Java 6/7, Oracle 11g, Apache Tomcat, Spring MVC/Data/Web Flow. Hibernate, Maven, Flyway, Swagger, Mockito, Jersey
-    - work7:
+    - work8:
       company: Sopra Steria SE (formerly known as Steria Mummert Consulting GmbH)
       location: Berlin, Germany
       title: Working student (Java Backend Developer / Frontend Developer)
@@ -117,7 +141,7 @@ author:
         <li>Research and prototyping of SpreadSheet web components.</li>
         <li>Research tasks for replacement of Active-X components.</li></ul>
       technologies: Java, JavaEE, JavaScript, ExtJS, jQuery, JFreeChart
-    - work8:
+    - work9:
       company: Computer Center "Cluster"
       location: Ternopil, Ukraine
       title: Repair of computers
@@ -128,7 +152,7 @@ author:
         <li>Virus removal, cleaning.</li>
         <li>Installation of operating systems. HDD backups.</li></ul>
       technologies:
-    - work9:
+    - work10:
       company: Konica Minolta
       location: Ternopil, Ukraine
       title: Designer and video editing
@@ -141,7 +165,7 @@ author:
         <li>Web banners with Flash and ActionScript.</li>
         <li>Programmed cost accounting system using C++ Builder.</li></ul>
       technologies: Adobe Photoshop, Adobe Illustrator, CorelDraw, Adobe Premiere, Adobe After Effects, Flash, ActionScript, C++ Builder
-    - work10:
+    - work11:
       company: Computer Center "Terminal"
       location: Ternopil, Ukraine
       title: Computer network administrator
@@ -293,8 +317,8 @@ author:
       name: Prometheus/Grafana
       percentage: 70%
     - skill3:
-      name: OpenSearch
-      percentage: 50%
+      name: Terraform
+      percentage: 60%
     - skill4:
       name: Python
       percentage: 70%
@@ -320,8 +344,8 @@ author:
       name: Jenkins
       percentage: 80%
     - skill12:
-      name: Terraform
-      percentage: 60%
+      name: GitLab
+      percentage: 50%
     - skill13:
       name: Groovy
       percentage: 80%
@@ -331,19 +355,19 @@ author:
   experiences:
     - skill1:
       name: Java
-      label: 12 years
+      label: 13 years
       percentage: 100%
     - skill2:
       name: Spring / Spring Boot
-      label: 10 years
+      label: 11 years
       percentage: 80%
     - skill3:
       name: Linux
-      label: 10 years
+      label: 11 years
       percentage: 80%
     - skill4:
       name: Databases
-      label: 10 years
+      label: 11 years
       percentage: 80%
     - skill5:
       name: Jenkins
@@ -351,23 +375,27 @@ author:
       percentage: 60%
     - skill6:
       name: Docker
-      label: 7 years
+      label: 8 years
       percentage: 50%
     - skill7:
       name: CI/CD
-      label: 7 years
+      label: 8 years
       percentage: 50%
     - skill8:
       name: Kubernetes
-      label: 6 years
+      label: 7 years
       percentage: 50%
     - skill9:
       name: DevOps
-      label: 6 years
+      label: 7 years
       percentage: 40%
     - skill10:
       name: Terraform
-      label: 3 year
+      label: 4 years
+      percentage: 30%
+    - skill11:
+      name: Gitlab
+      label: 2 years
       percentage: 30%
   interestedon:
     - skill1:
@@ -401,10 +429,11 @@ author:
     #      name: Go
     #      percentage: 80%
   environment_skills: [Linux/MacOS/Windows, IntelliJ IDEA, Docker, Shell, Git]
-  languages_skills: [Java, Python, Go, Bash, SQL, JavaScript, Groovy]
-  frameworks_skills: [Spring, Spring Boot, Apache Spark, Hadoop, Angular, Android SDK]
-  paradigms_skills: [DevOps, Object-oriented Programming (OOP), CQRS, Agile Software Development(Scrum/Kanban), Dependency Injection, Microservices, Continuous Integration (CI), Continuous  Development (CD), Continuous Delivery (CD), REST, Unit/Integrations Testing, UML, Pipelines, etc...]
-  storage_skills: [MySQL, PostgreSQL, Elasticsearch, OpenSearch, Oracle, MongoDB, Couchbase, SQLite]
-  tools_skills: [IntellJ IDEA, Visual Studio Code, Android Studio, Gradle, Maven, sbt, Git, Jenkins, TeamCity, Nexus, SonarQube, Portainer, Terraform, Kibana, Prometheus, Grafana, Traefik, HashiCorp Vault, Helm,  Argo-CD/Workflows/Events, kubectl, etc...]
+  languages_skills: [Java, Python, Go, Bash, SQL, TypeScript, Groovy]
   platforms_skills: [Kubernetes, Rancher, Docker, AWS, GCP, Azure, Vagrant, Linux, MacOS, Windows, Android]
+  devops_skills: [Ceph, Velero, Terraform, Jenkins, GitLab, TeamCity, Prometheus, Grafana, Loki, Traefik, NGINX Ingress, HashiCorp Vault, Helm, Harbor, Nexus, Kibana, SonarQube, Portainer, Keycloak, Istio, Argo-CD/Workflows/Events,]
+  tools_skills: [IntellJ IDEA, Visual Studio Code, Android Studio, Gradle, Maven, sbt, Git, kubectl, etc...]
+  storage_skills: [MySQL, PostgreSQL, Elasticsearch, OpenSearch, Oracle, MongoDB, Couchbase, SQLite]
+  frameworks_skills: [ Spring, Spring Boot, Apache Spark, Hadoop, Angular, VueJS, Android SDK ]
+  paradigms_skills: [ DevOps, Object-oriented Programming (OOP), CQRS, Agile Software Development(Scrum/Kanban), Dependency Injection, Microservices, Continuous Integration (CI), Continuous  Development (CD), Continuous Delivery (CD), REST, Unit/Integrations Testing, UML, Pipelines, etc... ]
   libraries_skills: [Apache Lucene, Apache CXF, Jersey, RESTEasy, Flyway, Liquibase, Guava, JUnit, TestNG, Mockito, OpenAPI(Swagger), JAX-RS, Bean Validation, JPA, etc...]

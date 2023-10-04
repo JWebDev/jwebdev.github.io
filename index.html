@@ -225,6 +225,30 @@ layout: default
             </div>
             </p></br>
 
+            <p>Platforms:
+            <div class="grid-block">
+                {% for skill in site.author.platforms_skills %}
+                <span class="caption-skill skill-tag">&nbsp; {{ skill }} &nbsp;</span>
+                {% endfor %}
+            </div>
+            </p></br>
+
+            <p>Tools:
+            <div class="grid-block">
+                {% for skill in site.author.tools_skills %}
+                <span class="caption-skill skill-tag">&nbsp; {{ skill }} &nbsp;</span>
+                {% endfor %}
+            </div>
+            </p></br>
+
+            <p>DevOps:
+            <div class="grid-block">
+                {% for skill in site.author.devops_skills %}
+                <span class="caption-skill skill-tag">&nbsp; {{ skill }} &nbsp;</span>
+                {% endfor %}
+            </div>
+            </p></br>
+
             <p>Frameworks:
             <div class="grid-block">
                 {% for skill in site.author.frameworks_skills %}
@@ -244,22 +268,6 @@ layout: default
             <p>Databases:
             <div class="grid-block">
                 {% for skill in site.author.storage_skills %}
-                <span class="caption-skill skill-tag">&nbsp; {{ skill }} &nbsp;</span>
-                {% endfor %}
-            </div>
-            </p></br>
-
-            <p>Tools:
-            <div class="grid-block">
-                {% for skill in site.author.tools_skills %}
-                <span class="caption-skill skill-tag">&nbsp; {{ skill }} &nbsp;</span>
-                {% endfor %}
-            </div>
-            </p></br>
-
-            <p>Platforms:
-            <div class="grid-block">
-                {% for skill in site.author.platforms_skills %}
                 <span class="caption-skill skill-tag">&nbsp; {{ skill }} &nbsp;</span>
                 {% endfor %}
             </div>
