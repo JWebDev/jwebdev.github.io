@@ -24,7 +24,10 @@ author:
       title: Founder & CEO
       started: 2024
       duration: 2024 - Present
-      description: <a href="https://guardius.io" target="_blank"><u>Guardius</u></a> is a SaaS solution that automates a range of IT tasks for businesses managing their websites or infrastructure.
+      description: >
+        <a href="https://guardius.io" target="_blank"><u>Guardius</u></a> is a SaaS solution that automates a range of IT tasks for businesses managing their websites or infrastructure.
+        <a href="https://www.linkedin.com/company/guardius-dev" target="_blank"><u>Linkedin</u></a>
+        <a href="https://x.com/GuardiusDev" target="_blank"><u>Twitter/X</u></a>
     - work2:
       company: Pixelboxx GmbH
       location: Dortmund, Germany
@@ -362,47 +365,47 @@ author:
   experiences:
     - skill1:
       name: Java
-      label: 13 years
+      label: 14 years
       percentage: 100%
     - skill2:
       name: Spring / Spring Boot
-      label: 11 years
+      label: 12 years
       percentage: 80%
     - skill3:
       name: Linux
-      label: 11 years
+      label: 12 years
       percentage: 80%
     - skill4:
       name: Databases
-      label: 11 years
+      label: 12 years
       percentage: 80%
     - skill5:
       name: Jenkins
-      label: 8 years
+      label: 9 years
       percentage: 60%
     - skill6:
       name: Docker
-      label: 8 years
+      label: 9 years
       percentage: 50%
     - skill7:
       name: CI/CD
-      label: 8 years
+      label: 9 years
       percentage: 50%
     - skill8:
       name: Kubernetes
-      label: 7 years
+      label: 8 years
       percentage: 50%
     - skill9:
       name: DevOps
-      label: 7 years
+      label: 8 years
       percentage: 40%
     - skill10:
       name: Terraform
-      label: 4 years
+      label: 5 years
       percentage: 30%
     - skill11:
       name: Gitlab
-      label: 2 years
+      label: 3 years
       percentage: 30%
   interestedon:
     - skill1:
