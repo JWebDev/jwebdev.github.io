@@ -9,16 +9,23 @@ rss_url: /pages/atom.xml
 # Author settings
 author:
   name: Oleg Fedak
-  title: Senior DevOps Engineer / Senior Java Developer
+  title: Founder / SEO / Senior DevOps Engineer / Senior Java Developer
   address: Berlin, Germany
   email: surnamename#gmail.com
   link: #
   github: JWebDev
-  linkedin: oleg-fedak-b9a03196
+  linkedin: oleg-fedak
   xing: Oleg_Fedak2
-  lastUpdateDate: " Last Update: 04.10.2023"
+  lastUpdateDate: " Last Update: 04.10.2024"
   workHistory:
     - work1:
+      company: Guardius Dev UG
+      location: Berlin, Germany
+      title: Founder & CEO
+      started: 2024
+      duration: 2024 - Present
+      description: <a href="https://guardius.io" target="_blank"><u>Guardius</u></a> is a SaaS solution that automates a range of IT tasks for businesses managing their websites or infrastructure.
+    - work2:
       company: Pixelboxx GmbH
       location: Dortmund, Germany
       title: Senior DevOps Engineer
@@ -42,7 +49,7 @@ author:
             <li>Keycloak integration.</li>
             <li>Migrations and various other DevOps related tasks.</li></ul>
       technologies: Kubernetes, Ceph, Velero, NGINX Ingress, Prometheus, Grafana, Loki, Helm, kubectl, GitLab, CI/CD pipelines, Harbor, Keycloak, Istio, AWS, Azure, HashiCorp Vault, Lens, kubectl
-    - work2:
+    - work3:
       company: kv.digital GmbH
       location: Berlin, Germany
       title: Senior DevOps Engineer
@@ -55,7 +62,7 @@ author:
         <li>Planning and implementation of Kubernetes CI/CD Pipelines for dynamic environments for different purposes.</li>
         <li>Training and education of fellow administrators of the Kubernetes platform.</li></ul>
       technologies: Kubernetes, Rancher, Traefik, Prometheus, Grafana, OpenSearch, HashiCorp Vault, Helm, Longhorn, Argo-cd/workflows/events/rollouts, Lens, kubectl
-    - work3:
+    - work4:
       company: kv.digital GmbH
       location: Berlin, Germany
       title: Senior DevOps Engineer
@@ -77,7 +84,7 @@ author:
         <li>OWASP checks and analysis of Artifacts for security bugs and vulnerabilities.</li>
         <li>Introduced Spring Boot Admin for a better overview of metrics.</li></ul>
       technologies: Elasticsearch, Kibana, Grafana, Prometheus, Groovy, Shell, Docker, Jenkins, Jenkins Pipelines, Nexus, Java 11, MySQL, Spring Boot, Spring Boot Admin, Maven, Ansible, Python, SonarQube
-    - work4:
+    - work5:
       company: KV Telematik GmbH
       location: Berlin, Germany
       title: Senior Java Developer / DevOps Engineer
@@ -94,7 +101,7 @@ author:
         <li>Built Jenkins CI/CD pipelines in Groovy to automate all processes.</li>
         <li>Updated and patched libraries to increase security.</li></ul>
       technologies: Java 8/11, MySQL, Spring Boot. Spring Security, Hibernate, Maven, Jersey, Nexus, Jenkins, Docker, OpenAPI, Liquibase, SonarQube
-    - work5:
+    - work6:
       company: Solactive AG (formerly known as Primervoto GmbH)
       location: Berlin, Germany
       title: Senior Java Developer
@@ -102,7 +109,7 @@ author:
       duration: (2017 - 2017)
       description: Development of services for financial exchange. Most used technologies for development&#58 Java 8, Spring Boot, Play Framework, MySQL, Maven, sbt, etc.
       technologies: Java 8, MySQL, Spring Boot. Hibernate, Maven, sbt, Play Framework, RESTEasy
-    - work6:
+    - work7:
       company: Klopotek AG
       location: Berlin, Germany
       title: Java Backend Developer / Frontend Developer
@@ -116,7 +123,7 @@ author:
         <li>Developed Web Frontend with AngularJS.</li>
         <li>Automated deployment to AWS with Ansible.</li></ul>
       technologies: Java 7/8, Oracle, Spring. Hibernate, Maven, AWS, Ansible, GitLab, JFrog, Jenkins, Wildfly, AngularJS
-    - work7:
+    - work8:
       company: Vilua Healthcare GmbH (formerly known as xx-well GmbH and Welldoo GmbH)
       location: Berlin, Germany
       title: Working student (Java Backend Developer / Frontend Developer)
@@ -129,7 +136,7 @@ author:
         <li>Maintenance of JSP/JSF Web Frontend.</li>
         <li>Bachelor thesis “Microservices Architecture”.</li></ul>
       technologies: Java 6/7, Oracle 11g, Apache Tomcat, Spring MVC/Data/Web Flow. Hibernate, Maven, Flyway, Swagger, Mockito, Jersey
-    - work8:
+    - work9:
       company: Sopra Steria SE (formerly known as Steria Mummert Consulting GmbH)
       location: Berlin, Germany
       title: Working student (Java Backend Developer / Frontend Developer)
@@ -141,7 +148,7 @@ author:
         <li>Research and prototyping of SpreadSheet web components.</li>
         <li>Research tasks for replacement of Active-X components.</li></ul>
       technologies: Java, JavaEE, JavaScript, ExtJS, jQuery, JFreeChart
-    - work9:
+    - work10:
       company: Computer Center "Cluster"
       location: Ternopil, Ukraine
       title: Repair of computers
@@ -152,7 +159,7 @@ author:
         <li>Virus removal, cleaning.</li>
         <li>Installation of operating systems. HDD backups.</li></ul>
       technologies:
-    - work10:
+    - work11:
       company: Konica Minolta
       location: Ternopil, Ukraine
       title: Designer and video editing
@@ -165,7 +172,7 @@ author:
         <li>Web banners with Flash and ActionScript.</li>
         <li>Programmed cost accounting system using C++ Builder.</li></ul>
       technologies: Adobe Photoshop, Adobe Illustrator, CorelDraw, Adobe Premiere, Adobe After Effects, Flash, ActionScript, C++ Builder
-    - work11:
+    - work12:
       company: Computer Center "Terminal"
       location: Ternopil, Ukraine
       title: Computer network administrator
@@ -173,7 +180,7 @@ author:
       duration: (2006 - 2006)
       description: Created, configured, built and maintained internet networks for customers.
       technologie§s:
-    - work10:
+    - work13:
       company: Internet cafe "Krapka"
       location: Ternopil, Ukraine
       title: Internet cafe administrator
