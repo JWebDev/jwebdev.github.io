@@ -16,9 +16,18 @@ author:
   github: JWebDev
   linkedin: oleg-fedak
   xing: Oleg_Fedak2
-  lastUpdateDate: " Last Update: 04.10.2024"
+  lastUpdateDate: " Last Update: 28.05.2025"
   workHistory:
     - work1:
+      company: Dataport AöR
+      location: Hamburg, Germany
+      title: Kubernetes Consultant/Platform Architect & Engineer
+      started: 2025
+      duration: 2025 - Present
+      description: >
+        <p>The creation, planning and implementation of KaaS (Kubernetes as a Service) for PaaS. This is done through Cluster API and other tools, which are used to dynamically create and manage Kubernetes clusters.</p>
+      technologies: Kubernetes, Go, Cluster API, Helm, kubectl, clusterctl CLI, GitLab, CI/CD pipelines, JFrog
+    - work2:
       company: Guardius Dev UG
       location: Berlin, Germany
       title: Founder & CEO
@@ -28,7 +37,7 @@ author:
         <p><a href="https://guardius.io" target="_blank"><u>Guardius</u></a> is a SaaS solution that automates a range of IT tasks for businesses managing their websites or infrastructure.</p>
         <p><a href="https://www.linkedin.com/company/guardius-dev" target="_blank"><u>Linkedin</u></a></p>
         <p><a href="https://x.com/GuardiusDev" target="_blank"><u>Twitter/X</u></a></p>
-    - work2:
+    - work3:
       company: Pixelboxx GmbH
       location: Dortmund, Germany
       title: Senior DevOps Engineer
@@ -51,8 +60,8 @@ author:
             <li>Working with AWS and Azure.</li>
             <li>Keycloak integration.</li>
             <li>Migrations and various other DevOps related tasks.</li></ul>
-      technologies: Kubernetes, Ceph, Velero, NGINX Ingress, Prometheus, Grafana, Loki, Helm, kubectl, GitLab, CI/CD pipelines, Harbor, Keycloak, Istio, AWS, Azure, HashiCorp Vault, Lens, kubectl
-    - work3:
+      technologies: Kubernetes, Ceph, Velero, NGINX Ingress, Prometheus, Grafana, Loki, Helm, kubectl, GitLab, CI/CD pipelines, Harbor, Keycloak, Istio, AWS, Azure, HashiCorp Vault, Lens
+    - work4:
       company: kv.digital GmbH
       location: Berlin, Germany
       title: Senior DevOps Engineer
@@ -65,7 +74,7 @@ author:
         <li>Planning and implementation of Kubernetes CI/CD Pipelines for dynamic environments for different purposes.</li>
         <li>Training and education of fellow administrators of the Kubernetes platform.</li></ul>
       technologies: Kubernetes, Rancher, Traefik, Prometheus, Grafana, OpenSearch, HashiCorp Vault, Helm, Longhorn, Argo-cd/workflows/events/rollouts, Lens, kubectl
-    - work4:
+    - work5:
       company: kv.digital GmbH
       location: Berlin, Germany
       title: Senior DevOps Engineer
@@ -87,7 +96,7 @@ author:
         <li>OWASP checks and analysis of Artifacts for security bugs and vulnerabilities.</li>
         <li>Introduced Spring Boot Admin for a better overview of metrics.</li></ul>
       technologies: Elasticsearch, Kibana, Grafana, Prometheus, Groovy, Shell, Docker, Jenkins, Jenkins Pipelines, Nexus, Java 11, MySQL, Spring Boot, Spring Boot Admin, Maven, Ansible, Python, SonarQube
-    - work5:
+    - work6:
       company: KV Telematik GmbH
       location: Berlin, Germany
       title: Senior Java Developer / DevOps Engineer
@@ -104,7 +113,7 @@ author:
         <li>Built Jenkins CI/CD pipelines in Groovy to automate all processes.</li>
         <li>Updated and patched libraries to increase security.</li></ul>
       technologies: Java 8/11, MySQL, Spring Boot. Spring Security, Hibernate, Maven, Jersey, Nexus, Jenkins, Docker, OpenAPI, Liquibase, SonarQube
-    - work6:
+    - work7:
       company: Solactive AG (formerly known as Primervoto GmbH)
       location: Berlin, Germany
       title: Senior Java Developer
@@ -112,7 +121,7 @@ author:
       duration: (2017 - 2017)
       description: Development of services for financial exchange. Most used technologies for development&#58 Java 8, Spring Boot, Play Framework, MySQL, Maven, sbt, etc.
       technologies: Java 8, MySQL, Spring Boot. Hibernate, Maven, sbt, Play Framework, RESTEasy
-    - work7:
+    - work8:
       company: Klopotek AG
       location: Berlin, Germany
       title: Java Backend Developer / Frontend Developer
@@ -126,7 +135,7 @@ author:
         <li>Developed Web Frontend with AngularJS.</li>
         <li>Automated deployment to AWS with Ansible.</li></ul>
       technologies: Java 7/8, Oracle, Spring. Hibernate, Maven, AWS, Ansible, GitLab, JFrog, Jenkins, Wildfly, AngularJS
-    - work8:
+    - work9:
       company: Vilua Healthcare GmbH (formerly known as xx-well GmbH and Welldoo GmbH)
       location: Berlin, Germany
       title: Working student (Java Backend Developer / Frontend Developer)
@@ -139,7 +148,7 @@ author:
         <li>Maintenance of JSP/JSF Web Frontend.</li>
         <li>Bachelor thesis “Microservices Architecture”.</li></ul>
       technologies: Java 6/7, Oracle 11g, Apache Tomcat, Spring MVC/Data/Web Flow. Hibernate, Maven, Flyway, Swagger, Mockito, Jersey
-    - work9:
+    - work10:
       company: Sopra Steria SE (formerly known as Steria Mummert Consulting GmbH)
       location: Berlin, Germany
       title: Working student (Java Backend Developer / Frontend Developer)
@@ -151,7 +160,7 @@ author:
         <li>Research and prototyping of SpreadSheet web components.</li>
         <li>Research tasks for replacement of Active-X components.</li></ul>
       technologies: Java, JavaEE, JavaScript, ExtJS, jQuery, JFreeChart
-    - work10:
+    - work11:
       company: Computer Center "Cluster"
       location: Ternopil, Ukraine
       title: Repair of computers
@@ -162,7 +171,7 @@ author:
         <li>Virus removal, cleaning.</li>
         <li>Installation of operating systems. HDD backups.</li></ul>
       technologies:
-    - work11:
+    - work12:
       company: Konica Minolta
       location: Ternopil, Ukraine
       title: Designer and video editing
@@ -175,7 +184,7 @@ author:
         <li>Web banners with Flash and ActionScript.</li>
         <li>Programmed cost accounting system using C++ Builder.</li></ul>
       technologies: Adobe Photoshop, Adobe Illustrator, CorelDraw, Adobe Premiere, Adobe After Effects, Flash, ActionScript, C++ Builder
-    - work12:
+    - work13:
       company: Computer Center "Terminal"
       location: Ternopil, Ukraine
       title: Computer network administrator
@@ -183,7 +192,7 @@ author:
       duration: (2006 - 2006)
       description: Created, configured, built and maintained internet networks for customers.
       technologie§s:
-    - work13:
+    - work14:
       company: Internet cafe "Krapka"
       location: Ternopil, Ukraine
       title: Internet cafe administrator
@@ -195,7 +204,7 @@ author:
     - project1:
       name: SaaS DevOps and DevSecOps Platform
       started: 2022
-      duration: 2022-2024
+      duration: 2022 - Present
       title: Founder/Developer
       link: <a href="https://guardius.io" target="_blank"><u>Guardius</u></a>
       description: Guardius is a SaaS solution that automates a range of IT tasks for businesses managing their websites or infrastructure.
@@ -203,7 +212,7 @@ author:
     - project2:
       name: Kube Helper
       started: 2020
-      duration: 2020-2021
+      duration: 2020 - 2021
       title: Founder
       link: <a href="https://github.com/KubeHelper/kubehelper" target="_blank"> <u>https://github.com/KubeHelper/kubehelper</u></a>
       description: >
@@ -214,7 +223,7 @@ author:
     - project3:
       name: Concurrent Analytics
       started: 2017
-      duration: 2017-2019
+      duration: 2017 - 2019
       title: Founder & CEO
       link: <a href="http://concurrent-analytics.com" target="_blank"> <u>www.concurrent-analytics.com</u> </a>
       description: >
@@ -233,7 +242,7 @@ author:
     - project4:
       name: Words Tutor
       started: 2016
-      duration: 2016-2017
+      duration: 2016 - 2017
       title: Founder
       link: <a href="https://play.google.com/store/apps/details?id=com.jdev.tutor" target="_blank"> <u>Words Tutor on PlayMarket</u> </a>
       description: >
@@ -256,7 +265,7 @@ author:
     - project5:
       name: Other
       started: 2012
-      duration: 2012-2014
+      duration: 2012 - 2014
       description: >
         <ul><li>A chess game developed using Java Sockets and Java Swing with following features&#58 local and network game,
         2D chess board, 2-player mode, clock, chat, save/continue network game, animation during figure selection.</li>
@@ -321,7 +330,7 @@ author:
   skills:
     - skill1:
       name: Kubernetes
-      percentage: 70%
+      percentage: 80%
     - skill2:
       name: Prometheus/Grafana
       percentage: 70%
@@ -333,7 +342,7 @@ author:
       percentage: 70%
     - skill5:
       name: Go
-      percentage: 60%
+      percentage: 80%
     - skill6:
       name: Traefik
       percentage: 70%
@@ -354,7 +363,7 @@ author:
       percentage: 80%
     - skill12:
       name: GitLab
-      percentage: 50%
+      percentage: 70%
     - skill13:
       name: Groovy
       percentage: 80%
@@ -364,47 +373,47 @@ author:
   experiences:
     - skill1:
       name: Java
-      label: 14 years
+      label: 15 years
       percentage: 100%
     - skill2:
       name: Spring / Spring Boot
-      label: 12 years
+      label: 13 years
       percentage: 80%
     - skill3:
       name: Linux
-      label: 12 years
+      label: 13 years
       percentage: 80%
     - skill4:
       name: Databases
-      label: 12 years
+      label: 13 years
       percentage: 80%
     - skill5:
       name: Jenkins
-      label: 9 years
+      label: 10 years
       percentage: 60%
     - skill6:
       name: Docker
-      label: 9 years
+      label: 10 years
       percentage: 50%
     - skill7:
       name: CI/CD
-      label: 9 years
+      label: 10 years
       percentage: 50%
     - skill8:
       name: Kubernetes
-      label: 8 years
+      label: 9 years
       percentage: 50%
     - skill9:
       name: DevOps
-      label: 8 years
+      label: 9 years
       percentage: 40%
     - skill10:
       name: Terraform
-      label: 5 years
+      label: 6 years
       percentage: 30%
     - skill11:
       name: Gitlab
-      label: 3 years
+      label: 4 years
       percentage: 30%
   interestedon:
     - skill1:
