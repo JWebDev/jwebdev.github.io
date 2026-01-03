@@ -11,14 +11,23 @@ author:
   name: Oleg Fedak
   title: Founder / SEO / Senior DevOps Engineer / Senior Java Developer
   address: Berlin, Germany
-  email: surnamename#gmail.com
+  email: lastnamefirstname#gmail.com
   link: #
   github: JWebDev
   linkedin: oleg-fedak
   xing: Oleg_Fedak2
-  lastUpdateDate: " Last Update: 28.05.2025"
+  lastUpdateDate: " Last Update: 03.01.2025"
   workHistory:
     - work1:
+      company: LegalMind AI GmbH
+      location: Berlin, Germany
+      title: Co-Founder & CEO
+      started: 2025
+      duration: 2025 - Present
+      description: >
+        <p><a href="https://legalwithlexi.com" target="_blank"><u>LEXI</u></a> is an AI-powered SaaS platform that helps music industry legal teams draft, edit, and review contracts faster while maintaining full control, built specifically for music lawyers with support for multiple legislations and full GDPR compliance.</p>
+        <p><a href="https://www.linkedin.com/company/legalwithlexi" target="_blank"><u>Linkedin</u></a></p>
+    - work2:
       company: Dataport AöR
       location: Hamburg, Germany
       title: Kubernetes Consultant/Platform Architect & Engineer
@@ -27,7 +36,7 @@ author:
       description: >
         <p>The creation, planning and implementation of KaaS (Kubernetes as a Service) for PaaS. This is done through Cluster API and other tools, which are used to dynamically create and manage Kubernetes clusters.</p>
       technologies: Kubernetes, Go, Cluster API, Helm, kubectl, clusterctl CLI, GitLab, CI/CD pipelines, JFrog
-    - work2:
+    - work3:
       company: Guardius Dev UG
       location: Berlin, Germany
       title: Founder & CEO
@@ -37,7 +46,7 @@ author:
         <p><a href="https://guardius.io" target="_blank"><u>Guardius</u></a> is a SaaS solution that automates a range of IT tasks for businesses managing their websites or infrastructure.</p>
         <p><a href="https://www.linkedin.com/company/guardius-dev" target="_blank"><u>Linkedin</u></a></p>
         <p><a href="https://x.com/GuardiusDev" target="_blank"><u>Twitter/X</u></a></p>
-    - work3:
+    - work4:
       company: Pixelboxx GmbH
       location: Dortmund, Germany
       title: Senior DevOps Engineer
@@ -61,7 +70,7 @@ author:
             <li>Keycloak integration.</li>
             <li>Migrations and various other DevOps related tasks.</li></ul>
       technologies: Kubernetes, Ceph, Velero, NGINX Ingress, Prometheus, Grafana, Loki, Helm, kubectl, GitLab, CI/CD pipelines, Harbor, Keycloak, Istio, AWS, Azure, HashiCorp Vault, Lens
-    - work4:
+    - work5:
       company: kv.digital GmbH
       location: Berlin, Germany
       title: Senior DevOps Engineer
@@ -74,7 +83,7 @@ author:
         <li>Planning and implementation of Kubernetes CI/CD Pipelines for dynamic environments for different purposes.</li>
         <li>Training and education of fellow administrators of the Kubernetes platform.</li></ul>
       technologies: Kubernetes, Rancher, Traefik, Prometheus, Grafana, OpenSearch, HashiCorp Vault, Helm, Longhorn, Argo-cd/workflows/events/rollouts, Lens, kubectl
-    - work5:
+    - work6:
       company: kv.digital GmbH
       location: Berlin, Germany
       title: Senior DevOps Engineer
@@ -96,7 +105,7 @@ author:
         <li>OWASP checks and analysis of Artifacts for security bugs and vulnerabilities.</li>
         <li>Introduced Spring Boot Admin for a better overview of metrics.</li></ul>
       technologies: Elasticsearch, Kibana, Grafana, Prometheus, Groovy, Shell, Docker, Jenkins, Jenkins Pipelines, Nexus, Java 11, MySQL, Spring Boot, Spring Boot Admin, Maven, Ansible, Python, SonarQube
-    - work6:
+    - work7:
       company: KV Telematik GmbH
       location: Berlin, Germany
       title: Senior Java Developer / DevOps Engineer
@@ -113,7 +122,7 @@ author:
         <li>Built Jenkins CI/CD pipelines in Groovy to automate all processes.</li>
         <li>Updated and patched libraries to increase security.</li></ul>
       technologies: Java 8/11, MySQL, Spring Boot. Spring Security, Hibernate, Maven, Jersey, Nexus, Jenkins, Docker, OpenAPI, Liquibase, SonarQube
-    - work7:
+    - work8:
       company: Solactive AG (formerly known as Primervoto GmbH)
       location: Berlin, Germany
       title: Senior Java Developer
@@ -121,7 +130,7 @@ author:
       duration: (2017 - 2017)
       description: Development of services for financial exchange. Most used technologies for development&#58 Java 8, Spring Boot, Play Framework, MySQL, Maven, sbt, etc.
       technologies: Java 8, MySQL, Spring Boot. Hibernate, Maven, sbt, Play Framework, RESTEasy
-    - work8:
+    - work9:
       company: Klopotek AG
       location: Berlin, Germany
       title: Java Backend Developer / Frontend Developer
@@ -135,7 +144,7 @@ author:
         <li>Developed Web Frontend with AngularJS.</li>
         <li>Automated deployment to AWS with Ansible.</li></ul>
       technologies: Java 7/8, Oracle, Spring. Hibernate, Maven, AWS, Ansible, GitLab, JFrog, Jenkins, Wildfly, AngularJS
-    - work9:
+    - work10:
       company: Vilua Healthcare GmbH (formerly known as xx-well GmbH and Welldoo GmbH)
       location: Berlin, Germany
       title: Working student (Java Backend Developer / Frontend Developer)
@@ -148,7 +157,7 @@ author:
         <li>Maintenance of JSP/JSF Web Frontend.</li>
         <li>Bachelor thesis “Microservices Architecture”.</li></ul>
       technologies: Java 6/7, Oracle 11g, Apache Tomcat, Spring MVC/Data/Web Flow. Hibernate, Maven, Flyway, Swagger, Mockito, Jersey
-    - work10:
+    - work11:
       company: Sopra Steria SE (formerly known as Steria Mummert Consulting GmbH)
       location: Berlin, Germany
       title: Working student (Java Backend Developer / Frontend Developer)
@@ -160,7 +169,7 @@ author:
         <li>Research and prototyping of SpreadSheet web components.</li>
         <li>Research tasks for replacement of Active-X components.</li></ul>
       technologies: Java, JavaEE, JavaScript, ExtJS, jQuery, JFreeChart
-    - work11:
+    - work12:
       company: Computer Center "Cluster"
       location: Ternopil, Ukraine
       title: Repair of computers
@@ -171,7 +180,7 @@ author:
         <li>Virus removal, cleaning.</li>
         <li>Installation of operating systems. HDD backups.</li></ul>
       technologies:
-    - work12:
+    - work13:
       company: Konica Minolta
       location: Ternopil, Ukraine
       title: Designer and video editing
@@ -184,7 +193,7 @@ author:
         <li>Web banners with Flash and ActionScript.</li>
         <li>Programmed cost accounting system using C++ Builder.</li></ul>
       technologies: Adobe Photoshop, Adobe Illustrator, CorelDraw, Adobe Premiere, Adobe After Effects, Flash, ActionScript, C++ Builder
-    - work13:
+    - work14:
       company: Computer Center "Terminal"
       location: Ternopil, Ukraine
       title: Computer network administrator
@@ -192,7 +201,7 @@ author:
       duration: (2006 - 2006)
       description: Created, configured, built and maintained internet networks for customers.
       technologie§s:
-    - work14:
+    - work15:
       company: Internet cafe "Krapka"
       location: Ternopil, Ukraine
       title: Internet cafe administrator
@@ -202,6 +211,14 @@ author:
       technologies:
   projects:
     - project1:
+      name: SaaS AI-powered platform
+      started: 2025
+      duration: 2025 - Present
+      title: Co-Founder/CTO
+      link: <a href="https://legalwithlexi.com" target="_blank"><u>Lexi</u></a>
+      description: LEXI is an AI-powered SaaS platform that helps music industry legal teams draft, edit, and review contracts faster while maintaining full control, built specifically for music lawyers with support for multiple legislations and full GDPR compliance.
+      technologies: Kubernetes, GCP, Vertex AI, Java, Spring Boot, Spring AI, Vue JS, Traefik, Alloy, Grafana, Loki, OWASP ZAP...
+    - project2:
       name: SaaS DevOps and DevSecOps Platform
       started: 2022
       duration: 2022 - Present
@@ -209,7 +226,7 @@ author:
       link: <a href="https://guardius.io" target="_blank"><u>Guardius</u></a>
       description: Guardius is a SaaS solution that automates a range of IT tasks for businesses managing their websites or infrastructure.
       technologies: Kubernetes, GCP, Java, Spring Boot, Go, Vue JS, Traefik, Prometheus, Grafana, Loki, OWASP ZAP...
-    - project2:
+    - project3:
       name: Kube Helper
       started: 2020
       duration: 2020 - 2021
@@ -220,7 +237,7 @@ author:
         <li>KubeHelper is a tool that simplifies many of the daily tasks associated with managing Kubernetes through a web interface. Search, analysis, run commands, cron jobs, reports, filters, git synchronization and many more.</li>
         <li>Read more about the KubeHelper project on wiki.<a href="https://github.com/KubeHelper/kubehelper/wiki" target="_blank"> <u>https://github.com/KubeHelper/kubehelper/wiki</u></a></li></ul>
       technologies: Kubernetes, Terraform, Helm, Docker, Java, Spring Boot, Shell, Zk Framework
-    - project3:
+    - project4:
       name: Concurrent Analytics
       started: 2017
       duration: 2017 - 2019
@@ -239,7 +256,7 @@ author:
         <li>Apache Zeppelin for fast access to Spark cluster.</li>
         <li>Helm as package manager for Kubernetes.</li></ul>
       technologies: Kubernetes, Docker, Terraform, Apache Spark. HDFS, Helm. Elasticsearch, Kibana, Fluent Bit, Ansible, Prometheus, Grafana, MySQL, MongoDB, Angular, TeamCity, Kotlin, Nexus, Shell
-    - project4:
+    - project5:
       name: Words Tutor
       started: 2016
       duration: 2016 - 2017
@@ -262,7 +279,7 @@ author:
         <li>A lot of flexible settings, level of complexity for individual trainings, different themes;</li>
         <li>Flexible configurable voice synthesizer;</li></ul>
       technologies:  Java, Android
-    - project5:
+    - project6:
       name: Other
       started: 2012
       duration: 2012 - 2014
